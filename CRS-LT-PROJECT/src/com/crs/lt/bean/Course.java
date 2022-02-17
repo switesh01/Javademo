@@ -1,36 +1,86 @@
+/**
+ * 
+ */
 package com.crs.lt.bean;
 
+/**
+ * @author user218
+ *
+ */
 public class Course {
-	
-	private String courseId;
 	private String courseCode;
-	private boolean isOffered;
-	private String instructor;
-	public String getCourseId() {
-		return courseId;
+	private String courseName;
+	private int catalogId;	
+	private int seats;
+	private float courseFee;
+	private int professorId;
+
+	public Course() {
+		 courseCode = null;
+		 courseName = null;
+		 catalogId = 0;	
+		 seats = 0;
+		 courseFee = 0.0f;
+		 professorId = 0;
 	}
-	public void setCourseId(String courseId) {
-		this.courseId = courseId;
+
+	public Course(String courseCode, String courseName, int catalogId,
+			int seats, float courseFee, int professorId ) {
+		super();
+		this.courseCode = courseCode;
+		this.courseName = courseName;
+		this.catalogId = catalogId;		
+		this.seats = seats;
+		this.courseFee = courseFee;
+		this.professorId = professorId;
 	}
+
 	public String getCourseCode() {
 		return courseCode;
 	}
+
 	public void setCourseCode(String courseCode) {
 		this.courseCode = courseCode;
 	}
-	public boolean isOffered() {
-		return isOffered;
+
+	public String getCourseName() {
+		return courseName;
 	}
-	public void setOffered(boolean isOffered) {
-		this.isOffered = isOffered;
+
+	public void setCourseName(String courseName) {
+		this.courseName = courseName;
 	}
-	public String getInstructor() {
-		return instructor;
+
+	public int getCatalogId() {
+		return catalogId;
 	}
-	public void setInstructor(String instructor) {
-		this.instructor = instructor;
+
+	public void setCatalogId(int catalogId) {
+		this.catalogId = catalogId;
 	}
-	
-	
-	
+
+	public int getProfessorId() {
+		return professorId;
+	}
+
+	public void setProfessorId(int professorId) {
+		this.professorId = professorId;
+	}
+
+	public int getSeats() {
+		return seats;
+	}
+
+	public void setSeats(int seats) {
+		this.seats = seats;
+	}
+
+	public float getCourseFee() {
+		return courseFee;
+	}
+
+	public void setCourseFee(float courseFee) {
+		this.courseFee = courseFee;
+	}
+
 }

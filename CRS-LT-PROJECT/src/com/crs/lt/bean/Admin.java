@@ -1,9 +1,15 @@
+/**
+ * 
+ */
 package com.crs.lt.bean;
 
 import java.util.Date;
 
-public class Admin {
-	
+/**
+ * @author user218
+ *
+ */
+public class Admin extends User{
 	private Date doj;
 
 	public Date getDoj() {
@@ -13,7 +19,6 @@ public class Admin {
 	public void setDoj(Date doj) {
 		this.doj = doj;
 	}
-	
-	
+
 
 }
