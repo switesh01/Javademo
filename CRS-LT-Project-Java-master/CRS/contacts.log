@@ -1,0 +1,2 @@
+13:19:02,023 ERROR ProfessorDaoImpl,main:138 - Exception handled: com.mysql.jdbc.Driver
+13:24:17,711 ERROR ProfessorDaoImpl,main:138 - Exception handled: com.mysql.jdbc.Driver

@@ -1,0 +1,1829 @@
+20:25:25,587  INFO CRSApplication,main:75 - Course Registration System
+20:25:25,593  INFO CRSApplication,main:76 - 1. Login
+20:25:25,594  INFO CRSApplication,main:77 - 2. Student Registration
+20:25:25,594  INFO CRSApplication,main:78 - 3. Update password
+20:25:25,595  INFO CRSApplication,main:79 - 4. Exit
+20:25:25,596  INFO CRSApplication,main:80 - Enter input
+20:25:46,770  INFO CRSApplication,main:165 - Student Registration-----
+20:25:46,771  INFO CRSApplication,main:166 - Name:
+20:25:55,495  INFO CRSApplication,main:168 - Email:
+20:26:08,987  INFO CRSApplication,main:170 - Password:
+20:26:22,222  INFO CRSApplication,main:172 - Gender: 	 1: Male 	 2.Female	 3.Other
+20:26:31,598  INFO CRSApplication,main:175 - Branch:
+20:26:46,027  INFO CRSApplication,main:177 - Batch:
+20:26:50,763  INFO CRSApplication,main:180 - Address:
+20:39:51,737  INFO CRSApplication,main:75 - Course Registration System
+20:39:51,744  INFO CRSApplication,main:76 - 1. Login
+20:39:51,744  INFO CRSApplication,main:77 - 2. Student Registration
+20:39:51,745  INFO CRSApplication,main:78 - 3. Update password
+20:39:51,745  INFO CRSApplication,main:79 - 4. Exit
+20:39:51,746  INFO CRSApplication,main:80 - Enter input
+20:39:55,145  INFO CRSApplication,main:165 - Student Registration-----
+20:39:55,146  INFO CRSApplication,main:166 - Name:
+20:39:59,013  INFO CRSApplication,main:168 - Email:
+20:40:04,029  INFO CRSApplication,main:170 - Password:
+20:40:09,005  INFO CRSApplication,main:174 - Branch:
+20:44:23,690  INFO CRSApplication,main:75 - Course Registration System
+20:44:23,696  INFO CRSApplication,main:76 - 1. Login
+20:44:23,697  INFO CRSApplication,main:77 - 2. Student Registration
+20:44:23,697  INFO CRSApplication,main:78 - 3. Update password
+20:44:23,699  INFO CRSApplication,main:79 - 4. Exit
+20:44:23,699  INFO CRSApplication,main:80 - Enter input
+20:44:26,003  INFO CRSApplication,main:165 - Student Registration-----
+20:44:26,004  INFO CRSApplication,main:166 - Name:
+20:44:28,622  INFO CRSApplication,main:168 - Email:
+20:44:35,942  INFO CRSApplication,main:170 - Password:
+20:44:38,954  INFO CRSApplication,main:174 - Branch:
+20:44:40,848  INFO CRSApplication,main:176 - Batch:
+20:44:44,327 ERROR CRSApplication,main:187 - Error ben not registered.
+20:44:44,327  INFO CRSApplication,main:75 - Course Registration System
+20:44:44,329  INFO CRSApplication,main:76 - 1. Login
+20:44:44,329  INFO CRSApplication,main:77 - 2. Student Registration
+20:44:44,329  INFO CRSApplication,main:78 - 3. Update password
+20:44:44,329  INFO CRSApplication,main:79 - 4. Exit
+20:44:44,330  INFO CRSApplication,main:80 - Enter input
+20:47:06,574  INFO CRSApplication,main:91 - Login
+20:47:06,575  INFO CRSApplication,main:92 - Email:
+20:47:12,460  INFO CRSApplication,main:94 - Password:
+20:47:15,549  INFO UserDaoOperation,main:116 - Something went wrong, please try again! Unknown column 'password' in 'field list'
+20:47:15,550 ERROR CRSApplication,main:144 - Invalid Credentials!
+20:47:15,550  INFO CRSApplication,main:75 - Course Registration System
+20:47:15,550  INFO CRSApplication,main:76 - 1. Login
+20:47:15,551  INFO CRSApplication,main:77 - 2. Student Registration
+20:47:15,551  INFO CRSApplication,main:78 - 3. Update password
+20:47:15,552  INFO CRSApplication,main:79 - 4. Exit
+20:47:15,552  INFO CRSApplication,main:80 - Enter input
+20:50:39,640  INFO CRSApplication,main:91 - Login
+20:50:39,641  INFO CRSApplication,main:92 - Email:
+20:50:44,795  INFO CRSApplication,main:94 - Password:
+20:50:46,986  INFO UserDaoOperation,main:116 - Something went wrong, please try again! Unknown column 'userId' in 'where clause'
+20:50:46,987 ERROR CRSApplication,main:144 - Invalid Credentials!
+20:50:46,988  INFO CRSApplication,main:75 - Course Registration System
+20:50:46,988  INFO CRSApplication,main:76 - 1. Login
+20:50:46,988  INFO CRSApplication,main:77 - 2. Student Registration
+20:50:46,988  INFO CRSApplication,main:78 - 3. Update password
+20:50:46,989  INFO CRSApplication,main:79 - 4. Exit
+20:50:46,989  INFO CRSApplication,main:80 - Enter input
+20:58:49,025  INFO CRSApplication,main:75 - Course Registration System
+20:58:49,031  INFO CRSApplication,main:76 - 1. Login
+20:58:49,032  INFO CRSApplication,main:77 - 2. Student Registration
+20:58:49,032  INFO CRSApplication,main:78 - 3. Update password
+20:58:49,033  INFO CRSApplication,main:79 - 4. Exit
+20:58:49,033  INFO CRSApplication,main:80 - Enter input
+20:59:09,635  INFO CRSApplication,main:91 - Login
+20:59:09,636  INFO CRSApplication,main:92 - Email:
+20:59:12,894  INFO CRSApplication,main:94 - Password:
+20:59:15,442  INFO UserDaoOperation,main:116 - Something went wrong, please try again! Unknown column 'userId' in 'where clause'
+20:59:15,445 ERROR CRSApplication,main:144 - Invalid Credentials!
+20:59:15,446  INFO CRSApplication,main:75 - Course Registration System
+20:59:15,446  INFO CRSApplication,main:76 - 1. Login
+20:59:15,447  INFO CRSApplication,main:77 - 2. Student Registration
+20:59:15,447  INFO CRSApplication,main:78 - 3. Update password
+20:59:15,448  INFO CRSApplication,main:79 - 4. Exit
+20:59:15,448  INFO CRSApplication,main:80 - Enter input
+10:59:31,915  INFO CRSApplication,main:75 - Course Registration System
+10:59:31,922  INFO CRSApplication,main:76 - 1. Login
+10:59:31,923  INFO CRSApplication,main:77 - 2. Student Registration
+10:59:31,923  INFO CRSApplication,main:78 - 3. Update password
+10:59:31,924  INFO CRSApplication,main:79 - 4. Exit
+10:59:31,925  INFO CRSApplication,main:80 - Enter input
+10:59:37,313  INFO CRSApplication,main:91 - Login
+10:59:37,313  INFO CRSApplication,main:92 - user Id:
+10:59:40,835  INFO CRSApplication,main:94 - Password:
+10:59:55,039  INFO UserDaoOperation,main:116 - Something went wrong, please try again! Unknown column 'userId' in 'where clause'
+10:59:55,044 ERROR CRSApplication,main:144 - Invalid Credentials!
+10:59:55,044  INFO CRSApplication,main:75 - Course Registration System
+10:59:55,045  INFO CRSApplication,main:76 - 1. Login
+10:59:55,045  INFO CRSApplication,main:77 - 2. Student Registration
+10:59:55,046  INFO CRSApplication,main:78 - 3. Update password
+10:59:55,047  INFO CRSApplication,main:79 - 4. Exit
+10:59:55,047  INFO CRSApplication,main:80 - Enter input
+11:01:16,993  INFO CRSApplication,main:75 - Course Registration System
+11:01:17,004  INFO CRSApplication,main:76 - 1. Login
+11:01:17,004  INFO CRSApplication,main:77 - 2. Student Registration
+11:01:17,005  INFO CRSApplication,main:78 - 3. Update password
+11:01:17,005  INFO CRSApplication,main:79 - 4. Exit
+11:01:17,005  INFO CRSApplication,main:80 - Enter input
+11:01:18,680  INFO CRSApplication,main:91 - Login
+11:01:18,681  INFO CRSApplication,main:92 - user Id:
+11:01:20,229  INFO CRSApplication,main:94 - Password:
+11:01:23,328  INFO UserDaoOperation,main:116 - Something went wrong, please try again! Unknown column 'userId' in 'where clause'
+11:01:23,333 ERROR CRSApplication,main:144 - Invalid Credentials!
+11:01:23,334  INFO CRSApplication,main:75 - Course Registration System
+11:01:23,335  INFO CRSApplication,main:76 - 1. Login
+11:01:23,336  INFO CRSApplication,main:77 - 2. Student Registration
+11:01:23,338  INFO CRSApplication,main:78 - 3. Update password
+11:01:23,339  INFO CRSApplication,main:79 - 4. Exit
+11:01:23,340  INFO CRSApplication,main:80 - Enter input
+11:02:55,128  INFO CRSApplication,main:166 - Student Registration-----
+11:02:55,132  INFO CRSApplication,main:167 - Name:
+11:03:58,206  INFO CRSApplication,main:75 - Course Registration System
+11:03:58,215  INFO CRSApplication,main:76 - 1. Login
+11:03:58,217  INFO CRSApplication,main:77 - 2. Student Registration
+11:03:58,219  INFO CRSApplication,main:78 - 3. Update password
+11:03:58,219  INFO CRSApplication,main:79 - 4. Exit
+11:03:58,220  INFO CRSApplication,main:80 - Enter input
+11:04:06,451  INFO CRSApplication,main:91 - Login
+11:04:06,452  INFO CRSApplication,main:92 - user Id:
+11:04:08,377  INFO CRSApplication,main:94 - Password:
+11:04:11,056 ERROR UserDaoOperation,main:162 - Unknown column 'userId' in 'where clause'
+11:04:11,059 ERROR CRSApplication,main:64 - Error occured java.lang.NullPointerException
+11:06:39,853  INFO CRSApplication,main:75 - Course Registration System
+11:06:39,863  INFO CRSApplication,main:76 - 1. Login
+11:06:39,864  INFO CRSApplication,main:77 - 2. Student Registration
+11:06:39,865  INFO CRSApplication,main:78 - 3. Update password
+11:06:39,866  INFO CRSApplication,main:79 - 4. Exit
+11:06:39,866  INFO CRSApplication,main:80 - Enter input
+11:21:54,593  INFO CRSApplication,main:75 - Course Registration System
+11:21:54,604  INFO CRSApplication,main:76 - 1. Login
+11:21:54,604  INFO CRSApplication,main:77 - 2. Student Registration
+11:21:54,605  INFO CRSApplication,main:78 - 3. Update password
+11:21:54,605  INFO CRSApplication,main:79 - 4. Exit
+11:21:54,606  INFO CRSApplication,main:80 - Enter input
+11:21:57,343  INFO CRSApplication,main:92 - Login
+11:21:57,344  INFO CRSApplication,main:93 - user Id:
+11:22:00,871  INFO CRSApplication,main:95 - Password:
+11:22:03,767 ERROR UserDaoOperation,main:164 - Unknown column 'userId' in 'where clause'
+11:22:03,771 ERROR CRSApplication,main:64 - Error occured java.lang.NullPointerException
+11:26:25,371  INFO CRSApplication,main:75 - Course Registration System
+11:26:25,378  INFO CRSApplication,main:76 - 1. Login
+11:26:25,378  INFO CRSApplication,main:77 - 2. Student Registration
+11:26:25,379  INFO CRSApplication,main:78 - 3. Update password
+11:26:25,379  INFO CRSApplication,main:79 - 4. Exit
+11:26:25,379  INFO CRSApplication,main:80 - Enter input
+11:26:26,354  INFO CRSApplication,main:92 - Login
+11:26:26,355  INFO CRSApplication,main:93 - user Id:
+11:26:27,978  INFO CRSApplication,main:95 - Password:
+11:26:30,600 ERROR StudentOperation,main:131 - Unknown column 'studentId' in 'field list'
+11:26:30,619 ERROR StudentOperation,main:158 - Unknown column 'isApproved' in 'field list'
+11:26:30,619  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+11:26:30,620  INFO CRSApplication,main:75 - Course Registration System
+11:26:30,620  INFO CRSApplication,main:76 - 1. Login
+11:26:30,621  INFO CRSApplication,main:77 - 2. Student Registration
+11:26:30,621  INFO CRSApplication,main:78 - 3. Update password
+11:26:30,621  INFO CRSApplication,main:79 - 4. Exit
+11:26:30,622  INFO CRSApplication,main:80 - Enter input
+11:27:57,053  INFO CRSApplication,main:92 - Login
+11:27:57,054  INFO CRSApplication,main:93 - user Id:
+11:27:58,576  INFO CRSApplication,main:95 - Password:
+11:28:00,522 ERROR StudentOperation,main:131 - Unknown column 'studentId' in 'field list'
+11:28:00,544 ERROR StudentOperation,main:158 - Unknown column 'isApproved' in 'field list'
+11:28:00,545  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+11:28:00,545  INFO CRSApplication,main:75 - Course Registration System
+11:28:00,546  INFO CRSApplication,main:76 - 1. Login
+11:28:00,546  INFO CRSApplication,main:77 - 2. Student Registration
+11:28:00,547  INFO CRSApplication,main:78 - 3. Update password
+11:28:00,547  INFO CRSApplication,main:79 - 4. Exit
+11:28:00,548  INFO CRSApplication,main:80 - Enter input
+11:29:03,182  INFO CRSApplication,main:92 - Login
+11:29:03,183  INFO CRSApplication,main:93 - user Id:
+11:29:19,042  INFO CRSApplication,main:75 - Course Registration System
+11:29:19,051  INFO CRSApplication,main:76 - 1. Login
+11:29:19,052  INFO CRSApplication,main:77 - 2. Student Registration
+11:29:19,052  INFO CRSApplication,main:78 - 3. Update password
+11:29:19,052  INFO CRSApplication,main:79 - 4. Exit
+11:29:19,052  INFO CRSApplication,main:80 - Enter input
+11:30:09,583  INFO CRSApplication,main:92 - Login
+11:30:09,584  INFO CRSApplication,main:93 - user Id:
+11:30:11,222  INFO CRSApplication,main:95 - Password:
+11:30:14,882 ERROR StudentOperation,main:131 - Column 'studentId' not found.
+11:30:14,909 ERROR StudentOperation,main:158 - Column 'isApproved' not found.
+11:30:14,910  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+11:30:14,910  INFO CRSApplication,main:75 - Course Registration System
+11:30:14,911  INFO CRSApplication,main:76 - 1. Login
+11:30:14,912  INFO CRSApplication,main:77 - 2. Student Registration
+11:30:14,912  INFO CRSApplication,main:78 - 3. Update password
+11:30:14,913  INFO CRSApplication,main:79 - 4. Exit
+11:30:14,913  INFO CRSApplication,main:80 - Enter input
+11:30:32,930  INFO CRSApplication,main:167 - Student Registration-----
+11:30:32,931  INFO CRSApplication,main:168 - Name:
+11:30:37,683  INFO CRSApplication,main:170 - userId:
+11:30:42,765  INFO CRSApplication,main:172 - Password:
+11:30:45,943  INFO CRSApplication,main:176 - Branch:
+11:30:47,743  INFO CRSApplication,main:178 - Batch:
+11:30:50,487 ERROR CRSApplication,main:187 - Error ben not registered.
+11:30:50,488  INFO CRSApplication,main:75 - Course Registration System
+11:30:50,488  INFO CRSApplication,main:76 - 1. Login
+11:30:50,488  INFO CRSApplication,main:77 - 2. Student Registration
+11:30:50,489  INFO CRSApplication,main:78 - 3. Update password
+11:30:50,489  INFO CRSApplication,main:79 - 4. Exit
+11:30:50,490  INFO CRSApplication,main:80 - Enter input
+11:41:37,750  INFO CRSApplication,main:75 - Course Registration System
+11:41:37,758  INFO CRSApplication,main:76 - 1. Login
+11:41:37,758  INFO CRSApplication,main:77 - 2. Student Registration
+11:41:37,760  INFO CRSApplication,main:78 - 3. Update password
+11:41:37,760  INFO CRSApplication,main:79 - 4. Exit
+11:41:37,761  INFO CRSApplication,main:80 - Enter input
+11:41:39,679  INFO CRSApplication,main:92 - Login
+11:41:39,680  INFO CRSApplication,main:93 - user Id:
+11:41:42,751  INFO CRSApplication,main:95 - Password:
+11:41:48,937 ERROR StudentOperation,main:131 - Column 'studentId' not found.
+11:41:48,978 ERROR StudentOperation,main:158 - Column 'isApproved' not found.
+11:41:48,978  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+11:41:48,978  INFO CRSApplication,main:75 - Course Registration System
+11:41:48,981  INFO CRSApplication,main:76 - 1. Login
+11:41:48,984  INFO CRSApplication,main:77 - 2. Student Registration
+11:41:48,986  INFO CRSApplication,main:78 - 3. Update password
+11:41:48,986  INFO CRSApplication,main:79 - 4. Exit
+11:41:48,986  INFO CRSApplication,main:80 - Enter input
+11:41:58,572  INFO CRSApplication,main:167 - Student Registration-----
+11:41:58,573  INFO CRSApplication,main:168 - Name:
+11:42:01,266  INFO CRSApplication,main:170 - userId:
+11:42:04,564  INFO CRSApplication,main:172 - Password:
+11:42:07,003  INFO CRSApplication,main:176 - Branch:
+11:42:08,625  INFO CRSApplication,main:178 - Batch:
+11:42:10,060 ERROR CRSApplication,main:187 - Error ben not registered.
+11:42:10,061  INFO CRSApplication,main:75 - Course Registration System
+11:42:10,061  INFO CRSApplication,main:76 - 1. Login
+11:42:10,063  INFO CRSApplication,main:77 - 2. Student Registration
+11:42:10,063  INFO CRSApplication,main:78 - 3. Update password
+11:42:10,064  INFO CRSApplication,main:79 - 4. Exit
+11:42:10,064  INFO CRSApplication,main:80 - Enter input
+11:44:28,448  INFO CRSApplication,main:75 - Course Registration System
+11:44:28,457  INFO CRSApplication,main:76 - 1. Login
+11:44:28,457  INFO CRSApplication,main:77 - 2. Student Registration
+11:44:28,458  INFO CRSApplication,main:78 - 3. Update password
+11:44:28,459  INFO CRSApplication,main:79 - 4. Exit
+11:44:28,459  INFO CRSApplication,main:80 - Enter input
+11:44:29,966  INFO CRSApplication,main:167 - Student Registration-----
+11:44:29,967  INFO CRSApplication,main:168 - Name:
+11:44:32,343  INFO CRSApplication,main:170 - userId:
+11:44:34,591  INFO CRSApplication,main:172 - Password:
+11:44:36,110  INFO CRSApplication,main:176 - Branch:
+11:44:38,059  INFO CRSApplication,main:178 - Batch:
+11:44:40,307 ERROR CRSApplication,main:187 - Error ben not registered.
+11:44:40,309  INFO CRSApplication,main:75 - Course Registration System
+11:44:40,309  INFO CRSApplication,main:76 - 1. Login
+11:44:40,310  INFO CRSApplication,main:77 - 2. Student Registration
+11:44:40,310  INFO CRSApplication,main:78 - 3. Update password
+11:44:40,311  INFO CRSApplication,main:79 - 4. Exit
+11:44:40,312  INFO CRSApplication,main:80 - Enter input
+11:48:47,149  INFO CRSApplication,main:92 - Login
+11:48:47,150  INFO CRSApplication,main:93 - user Id:
+11:48:55,296  INFO CRSApplication,main:95 - Password:
+11:48:57,165 ERROR CRSApplication,main:145 - Invalid Credentials!
+11:48:57,166  INFO CRSApplication,main:75 - Course Registration System
+11:48:57,166  INFO CRSApplication,main:76 - 1. Login
+11:48:57,167  INFO CRSApplication,main:77 - 2. Student Registration
+11:48:57,167  INFO CRSApplication,main:78 - 3. Update password
+11:48:57,168  INFO CRSApplication,main:79 - 4. Exit
+11:48:57,168  INFO CRSApplication,main:80 - Enter input
+11:49:07,197  INFO CRSApplication,main:92 - Login
+11:49:07,198  INFO CRSApplication,main:93 - user Id:
+11:49:08,766  INFO CRSApplication,main:95 - Password:
+11:49:11,221 ERROR StudentOperation,main:131 - Column 'studentId' not found.
+11:49:11,239 ERROR StudentOperation,main:158 - Column 'isApproved' not found.
+11:49:11,240  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+11:49:11,240  INFO CRSApplication,main:75 - Course Registration System
+11:49:11,240  INFO CRSApplication,main:76 - 1. Login
+11:49:11,241  INFO CRSApplication,main:77 - 2. Student Registration
+11:49:11,242  INFO CRSApplication,main:78 - 3. Update password
+11:49:11,242  INFO CRSApplication,main:79 - 4. Exit
+11:49:11,242  INFO CRSApplication,main:80 - Enter input
+11:52:06,094  INFO CRSApplication,main:75 - Course Registration System
+11:52:06,100  INFO CRSApplication,main:76 - 1. Login
+11:52:06,101  INFO CRSApplication,main:77 - 2. Student Registration
+11:52:06,102  INFO CRSApplication,main:78 - 3. Update password
+11:52:06,102  INFO CRSApplication,main:79 - 4. Exit
+11:52:06,103  INFO CRSApplication,main:80 - Enter input
+11:53:14,477  INFO CRSApplication,main:167 - Student Registration-----
+11:53:14,478  INFO CRSApplication,main:168 - Name:
+11:53:17,173  INFO CRSApplication,main:170 - userId:
+11:53:19,208  INFO CRSApplication,main:172 - Password:
+11:53:25,434  INFO CRSApplication,main:176 - Branch:
+11:53:28,197  INFO CRSApplication,main:178 - Batch:
+11:53:30,258 ERROR CRSApplication,main:187 - Error ben not registered.
+11:53:30,260  INFO CRSApplication,main:75 - Course Registration System
+11:53:30,260  INFO CRSApplication,main:76 - 1. Login
+11:53:30,261  INFO CRSApplication,main:77 - 2. Student Registration
+11:53:30,262  INFO CRSApplication,main:78 - 3. Update password
+11:53:30,263  INFO CRSApplication,main:79 - 4. Exit
+11:53:30,264  INFO CRSApplication,main:80 - Enter input
+11:54:59,728  INFO CRSApplication,main:92 - Login
+11:54:59,729  INFO CRSApplication,main:93 - user Id:
+11:55:03,388  INFO CRSApplication,main:95 - Password:
+11:55:09,510 ERROR StudentOperation,main:131 - Column 'studentId' not found.
+11:55:09,533 ERROR StudentOperation,main:158 - Column 'isApproved' not found.
+11:55:09,533  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+11:55:09,534  INFO CRSApplication,main:75 - Course Registration System
+11:55:09,535  INFO CRSApplication,main:76 - 1. Login
+11:55:09,535  INFO CRSApplication,main:77 - 2. Student Registration
+11:55:09,535  INFO CRSApplication,main:78 - 3. Update password
+11:55:09,536  INFO CRSApplication,main:79 - 4. Exit
+11:55:09,536  INFO CRSApplication,main:80 - Enter input
+11:57:17,504  INFO CRSApplication,main:75 - Course Registration System
+11:57:17,513  INFO CRSApplication,main:76 - 1. Login
+11:57:17,514  INFO CRSApplication,main:77 - 2. Student Registration
+11:57:17,514  INFO CRSApplication,main:78 - 3. Update password
+11:57:17,515  INFO CRSApplication,main:79 - 4. Exit
+11:57:17,515  INFO CRSApplication,main:80 - Enter input
+11:57:25,937  INFO CRSApplication,main:92 - Login
+11:57:25,938  INFO CRSApplication,main:93 - user Id:
+11:57:27,921  INFO CRSApplication,main:95 - Password:
+11:57:32,849  INFO CRSApplication,main:128 - 21-02-2022 11:57:32 Login Successful
+11:57:32,901  INFO RegistrationDaoOperation,main:457 - Unknown column 'isRegistered' in 'field list'
+11:57:32,902  INFO StudentCRSMenu,main:48 - Student Menu
+11:57:32,903  INFO StudentCRSMenu,main:49 - 1. Course Registration
+11:57:32,904  INFO StudentCRSMenu,main:50 - 2. Add Course
+11:57:32,905  INFO StudentCRSMenu,main:51 - 3. Drop Course
+11:57:32,905  INFO StudentCRSMenu,main:52 - 4. View Course
+11:57:32,906  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+11:57:32,907  INFO StudentCRSMenu,main:54 - 6. View grade card
+11:57:32,907  INFO StudentCRSMenu,main:55 - 7. Make Payment
+11:57:32,908  INFO StudentCRSMenu,main:56 - 8. Logout
+11:57:51,128 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+11:57:51,129  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+11:57:51,130  INFO StudentCRSMenu,main:48 - Student Menu
+11:57:51,130  INFO StudentCRSMenu,main:49 - 1. Course Registration
+11:57:51,130  INFO StudentCRSMenu,main:50 - 2. Add Course
+11:57:51,131  INFO StudentCRSMenu,main:51 - 3. Drop Course
+11:57:51,131  INFO StudentCRSMenu,main:52 - 4. View Course
+11:57:51,132  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+11:57:51,132  INFO StudentCRSMenu,main:54 - 6. View grade card
+11:57:51,132  INFO StudentCRSMenu,main:55 - 7. Make Payment
+11:57:51,133  INFO StudentCRSMenu,main:56 - 8. Logout
+11:58:03,037  INFO StudentCRSMenu,main:183 - Please complete registration
+11:58:03,038  INFO StudentCRSMenu,main:48 - Student Menu
+11:58:03,038  INFO StudentCRSMenu,main:49 - 1. Course Registration
+11:58:03,039  INFO StudentCRSMenu,main:50 - 2. Add Course
+11:58:03,039  INFO StudentCRSMenu,main:51 - 3. Drop Course
+11:58:03,040  INFO StudentCRSMenu,main:52 - 4. View Course
+11:58:03,040  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+11:58:03,041  INFO StudentCRSMenu,main:54 - 6. View grade card
+11:58:03,042  INFO StudentCRSMenu,main:55 - 7. Make Payment
+11:58:03,043  INFO StudentCRSMenu,main:56 - 8. Logout
+11:58:08,343  INFO StudentCRSMenu,main:183 - Please complete registration
+11:58:08,344  INFO StudentCRSMenu,main:48 - Student Menu
+11:58:08,344  INFO StudentCRSMenu,main:49 - 1. Course Registration
+11:58:08,345  INFO StudentCRSMenu,main:50 - 2. Add Course
+11:58:08,346  INFO StudentCRSMenu,main:51 - 3. Drop Course
+11:58:08,346  INFO StudentCRSMenu,main:52 - 4. View Course
+11:58:08,346  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+11:58:08,347  INFO StudentCRSMenu,main:54 - 6. View grade card
+11:58:08,347  INFO StudentCRSMenu,main:55 - 7. Make Payment
+11:58:08,347  INFO StudentCRSMenu,main:56 - 8. Logout
+11:58:15,199  INFO CRSApplication,main:75 - Course Registration System
+11:58:15,206  INFO CRSApplication,main:76 - 1. Login
+11:58:15,206  INFO CRSApplication,main:77 - 2. Student Registration
+11:58:15,206  INFO CRSApplication,main:78 - 3. Update password
+11:58:15,207  INFO CRSApplication,main:79 - 4. Exit
+11:58:15,207  INFO CRSApplication,main:80 - Enter input
+11:58:17,865  INFO CRSApplication,main:167 - Student Registration-----
+11:58:17,866  INFO CRSApplication,main:168 - Name:
+11:58:20,562  INFO CRSApplication,main:170 - userId:
+11:58:22,642  INFO CRSApplication,main:172 - Password:
+11:58:25,666  INFO CRSApplication,main:176 - Branch:
+11:58:27,853  INFO CRSApplication,main:178 - Batch:
+11:58:32,071 ERROR CRSApplication,main:187 - Error ben not registered.
+11:58:32,073  INFO CRSApplication,main:75 - Course Registration System
+11:58:32,073  INFO CRSApplication,main:76 - 1. Login
+11:58:32,073  INFO CRSApplication,main:77 - 2. Student Registration
+11:58:32,073  INFO CRSApplication,main:78 - 3. Update password
+11:58:32,074  INFO CRSApplication,main:79 - 4. Exit
+11:58:32,074  INFO CRSApplication,main:80 - Enter input
+11:59:57,286  INFO CRSApplication,main:167 - Student Registration-----
+11:59:57,286  INFO CRSApplication,main:168 - Name:
+12:00:00,165  INFO CRSApplication,main:170 - userId:
+12:00:02,273  INFO CRSApplication,main:172 - Password:
+12:00:03,760  INFO CRSApplication,main:176 - Branch:
+12:00:05,323  INFO CRSApplication,main:178 - Batch:
+12:00:06,893 ERROR CRSApplication,main:187 - Error ben not registered.
+12:00:06,893  INFO CRSApplication,main:75 - Course Registration System
+12:00:06,894  INFO CRSApplication,main:76 - 1. Login
+12:00:06,894  INFO CRSApplication,main:77 - 2. Student Registration
+12:00:06,894  INFO CRSApplication,main:78 - 3. Update password
+12:00:06,894  INFO CRSApplication,main:79 - 4. Exit
+12:00:06,895  INFO CRSApplication,main:80 - Enter input
+12:00:14,671  INFO CRSApplication,main:92 - Login
+12:00:14,671  INFO CRSApplication,main:93 - user Id:
+12:00:16,402  INFO CRSApplication,main:95 - Password:
+12:00:18,440  INFO CRSApplication,main:128 - 21-02-2022 12:00:18 Login Successful
+12:00:18,461  INFO RegistrationDaoOperation,main:457 - Unknown column 'isRegistered' in 'field list'
+12:00:18,461  INFO StudentCRSMenu,main:48 - Student Menu
+12:00:18,462  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:00:18,462  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:00:18,462  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:00:18,462  INFO StudentCRSMenu,main:52 - 4. View Course
+12:00:18,463  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:00:18,463  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:00:18,463  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:00:18,464  INFO StudentCRSMenu,main:56 - 8. Logout
+12:01:48,311 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+12:01:48,313  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+12:01:48,313  INFO StudentCRSMenu,main:48 - Student Menu
+12:01:48,314  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:01:48,314  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:01:48,314  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:01:48,315  INFO StudentCRSMenu,main:52 - 4. View Course
+12:01:48,316  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:01:48,316  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:01:48,316  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:01:48,317  INFO StudentCRSMenu,main:56 - 8. Logout
+12:10:41,235  INFO CRSApplication,main:75 - Course Registration System
+12:10:41,236  INFO CRSApplication,main:76 - 1. Login
+12:10:41,237  INFO CRSApplication,main:77 - 2. Student Registration
+12:10:41,237  INFO CRSApplication,main:78 - 3. Update password
+12:10:41,237  INFO CRSApplication,main:79 - 4. Exit
+12:10:41,237  INFO CRSApplication,main:80 - Enter input
+12:10:42,631  INFO CRSApplication,main:92 - Login
+12:10:42,632  INFO CRSApplication,main:93 - user Id:
+12:10:43,895  INFO CRSApplication,main:95 - Password:
+12:10:45,770  INFO CRSApplication,main:128 - 21-02-2022 12:10:45 Login Successful
+12:10:45,790  INFO StudentCRSMenu,main:48 - Student Menu
+12:10:45,790  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:10:45,791  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:10:45,791  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:10:45,792  INFO StudentCRSMenu,main:52 - 4. View Course
+12:10:45,793  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:10:45,793  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:10:45,793  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:10:45,793  INFO StudentCRSMenu,main:56 - 8. Logout
+12:10:57,733 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+12:10:57,744  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+12:10:57,745  INFO StudentCRSMenu,main:48 - Student Menu
+12:10:57,745  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:10:57,748  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:10:57,748  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:10:57,749  INFO StudentCRSMenu,main:52 - 4. View Course
+12:10:57,749  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:10:57,749  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:10:57,749  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:10:57,749  INFO StudentCRSMenu,main:56 - 8. Logout
+12:11:04,134 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+12:11:04,136  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+12:11:04,136  INFO StudentCRSMenu,main:48 - Student Menu
+12:11:04,136  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:11:04,137  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:11:04,138  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:11:04,138  INFO StudentCRSMenu,main:52 - 4. View Course
+12:11:04,138  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:11:04,139  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:11:04,140  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:11:04,140  INFO StudentCRSMenu,main:56 - 8. Logout
+12:11:10,009  INFO CRSApplication,main:75 - Course Registration System
+12:11:10,010  INFO CRSApplication,main:76 - 1. Login
+12:11:10,010  INFO CRSApplication,main:77 - 2. Student Registration
+12:11:10,010  INFO CRSApplication,main:78 - 3. Update password
+12:11:10,011  INFO CRSApplication,main:79 - 4. Exit
+12:11:10,011  INFO CRSApplication,main:80 - Enter input
+12:11:13,077  INFO CRSApplication,main:167 - Student Registration-----
+12:11:13,078  INFO CRSApplication,main:168 - Name:
+12:11:15,145  INFO CRSApplication,main:170 - userId:
+12:11:19,411  INFO CRSApplication,main:172 - Password:
+12:11:21,084  INFO CRSApplication,main:176 - Branch:
+12:11:22,564  INFO CRSApplication,main:178 - Batch:
+12:11:23,796 ERROR CRSApplication,main:187 - Error ben not registered.
+12:11:23,797  INFO CRSApplication,main:75 - Course Registration System
+12:11:23,797  INFO CRSApplication,main:76 - 1. Login
+12:11:23,798  INFO CRSApplication,main:77 - 2. Student Registration
+12:11:23,798  INFO CRSApplication,main:78 - 3. Update password
+12:11:23,798  INFO CRSApplication,main:79 - 4. Exit
+12:11:23,798  INFO CRSApplication,main:80 - Enter input
+12:14:26,105  INFO CRSApplication,main:92 - Login
+12:14:26,106  INFO CRSApplication,main:93 - user Id:
+12:14:28,729  INFO CRSApplication,main:95 - Password:
+12:14:41,350  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+12:14:41,351  INFO CRSApplication,main:75 - Course Registration System
+12:14:41,351  INFO CRSApplication,main:76 - 1. Login
+12:14:41,351  INFO CRSApplication,main:77 - 2. Student Registration
+12:14:41,351  INFO CRSApplication,main:78 - 3. Update password
+12:14:41,351  INFO CRSApplication,main:79 - 4. Exit
+12:14:41,352  INFO CRSApplication,main:80 - Enter input
+12:14:56,276  INFO CRSApplication,main:167 - Student Registration-----
+12:14:56,276  INFO CRSApplication,main:168 - Name:
+12:15:03,768  INFO CRSApplication,main:170 - userId:
+12:15:13,889 ERROR CRSApplication,main:64 - Error occured java.util.InputMismatchException
+12:16:57,226  INFO CRSApplication,main:75 - Course Registration System
+12:16:57,233  INFO CRSApplication,main:76 - 1. Login
+12:16:57,233  INFO CRSApplication,main:77 - 2. Student Registration
+12:16:57,234  INFO CRSApplication,main:78 - 3. Update password
+12:16:57,234  INFO CRSApplication,main:79 - 4. Exit
+12:16:57,235  INFO CRSApplication,main:80 - Enter input
+12:16:59,078  INFO CRSApplication,main:167 - Student Registration-----
+12:16:59,078  INFO CRSApplication,main:168 - Name:
+12:17:05,484  INFO CRSApplication,main:170 - userId:
+12:17:08,479  INFO CRSApplication,main:172 - Password:
+12:17:11,659  INFO CRSApplication,main:176 - Branch:
+12:17:13,296  INFO CRSApplication,main:178 - Batch:
+12:17:16,005 ERROR NotificationOperation,main:50 - Error occured Unknown column 'student_id' in 'field list'
+12:17:16,006  INFO CRSApplication,main:75 - Course Registration System
+12:17:16,007  INFO CRSApplication,main:76 - 1. Login
+12:17:16,007  INFO CRSApplication,main:77 - 2. Student Registration
+12:17:16,008  INFO CRSApplication,main:78 - 3. Update password
+12:17:16,009  INFO CRSApplication,main:79 - 4. Exit
+12:17:16,009  INFO CRSApplication,main:80 - Enter input
+12:22:40,532  INFO CRSApplication,main:92 - Login
+12:22:40,534  INFO CRSApplication,main:93 - user Id:
+12:22:43,866  INFO CRSApplication,main:95 - Password:
+12:22:46,328  INFO CRSApplication,main:128 - 21-02-2022 12:22:46 Login Successful
+12:22:46,360  INFO StudentCRSMenu,main:48 - Student Menu
+12:22:46,361  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:22:46,361  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:22:46,362  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:22:46,364  INFO StudentCRSMenu,main:52 - 4. View Course
+12:22:46,364  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:22:46,364  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:22:46,365  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:22:46,365  INFO StudentCRSMenu,main:56 - 8. Logout
+12:23:23,292  INFO StudentCRSMenu,main:183 - Please complete registration
+12:23:23,292  INFO StudentCRSMenu,main:48 - Student Menu
+12:23:23,292  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:23:23,294  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:23:23,294  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:23:23,295  INFO StudentCRSMenu,main:52 - 4. View Course
+12:23:23,295  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:23:23,295  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:23:23,295  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:23:23,295  INFO StudentCRSMenu,main:56 - 8. Logout
+12:23:27,730 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+12:23:27,733  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+12:23:27,733  INFO StudentCRSMenu,main:48 - Student Menu
+12:23:27,733  INFO StudentCRSMenu,main:49 - 1. Course Registration
+12:23:27,734  INFO StudentCRSMenu,main:50 - 2. Add Course
+12:23:27,734  INFO StudentCRSMenu,main:51 - 3. Drop Course
+12:23:27,734  INFO StudentCRSMenu,main:52 - 4. View Course
+12:23:27,735  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+12:23:27,735  INFO StudentCRSMenu,main:54 - 6. View grade card
+12:23:27,735  INFO StudentCRSMenu,main:55 - 7. Make Payment
+12:23:27,736  INFO StudentCRSMenu,main:56 - 8. Logout
+13:21:08,786  INFO CRSApplication,main:75 - Course Registration System
+13:21:08,795  INFO CRSApplication,main:76 - 1. Login
+13:21:08,795  INFO CRSApplication,main:77 - 2. Student Registration
+13:21:08,796  INFO CRSApplication,main:78 - 3. Update password
+13:21:08,797  INFO CRSApplication,main:79 - 4. Exit
+13:21:08,797  INFO CRSApplication,main:80 - Enter input
+13:21:24,443  INFO CRSApplication,main:92 - Login
+13:21:24,443  INFO CRSApplication,main:93 - user Id:
+13:21:30,453  INFO CRSApplication,main:95 - Password:
+13:21:36,884  INFO CRSApplication,main:128 - 21-02-2022 13:21:36 Login Successful
+13:21:36,923  INFO StudentCRSMenu,main:48 - Student Menu
+13:21:36,924  INFO StudentCRSMenu,main:49 - 1. Course Registration
+13:21:36,924  INFO StudentCRSMenu,main:50 - 2. Add Course
+13:21:36,925  INFO StudentCRSMenu,main:51 - 3. Drop Course
+13:21:36,925  INFO StudentCRSMenu,main:52 - 4. View Course
+13:21:36,926  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+13:21:36,926  INFO StudentCRSMenu,main:54 - 6. View grade card
+13:21:36,927  INFO StudentCRSMenu,main:55 - 7. Make Payment
+13:21:36,927  INFO StudentCRSMenu,main:56 - 8. Logout
+13:21:40,314 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+13:21:40,315  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+13:21:40,316  INFO StudentCRSMenu,main:48 - Student Menu
+13:21:40,317  INFO StudentCRSMenu,main:49 - 1. Course Registration
+13:21:40,317  INFO StudentCRSMenu,main:50 - 2. Add Course
+13:21:40,318  INFO StudentCRSMenu,main:51 - 3. Drop Course
+13:21:40,319  INFO StudentCRSMenu,main:52 - 4. View Course
+13:21:40,320  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+13:21:40,320  INFO StudentCRSMenu,main:54 - 6. View grade card
+13:21:40,321  INFO StudentCRSMenu,main:55 - 7. Make Payment
+13:21:40,321  INFO StudentCRSMenu,main:56 - 8. Logout
+13:23:25,323 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+13:23:25,324  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+13:23:25,324  INFO StudentCRSMenu,main:48 - Student Menu
+13:23:25,325  INFO StudentCRSMenu,main:49 - 1. Course Registration
+13:23:25,325  INFO StudentCRSMenu,main:50 - 2. Add Course
+13:23:25,325  INFO StudentCRSMenu,main:51 - 3. Drop Course
+13:23:25,326  INFO StudentCRSMenu,main:52 - 4. View Course
+13:23:25,326  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+13:23:25,326  INFO StudentCRSMenu,main:54 - 6. View grade card
+13:23:25,327  INFO StudentCRSMenu,main:55 - 7. Make Payment
+13:23:25,327  INFO StudentCRSMenu,main:56 - 8. Logout
+13:32:48,043 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+13:32:48,045  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+13:32:48,046  INFO StudentCRSMenu,main:48 - Student Menu
+13:32:48,047  INFO StudentCRSMenu,main:49 - 1. Course Registration
+13:32:48,047  INFO StudentCRSMenu,main:50 - 2. Add Course
+13:32:48,047  INFO StudentCRSMenu,main:51 - 3. Drop Course
+13:32:48,048  INFO StudentCRSMenu,main:52 - 4. View Course
+13:32:48,048  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+13:32:48,048  INFO StudentCRSMenu,main:54 - 6. View grade card
+13:32:48,049  INFO StudentCRSMenu,main:55 - 7. Make Payment
+13:32:48,049  INFO StudentCRSMenu,main:56 - 8. Logout
+13:32:57,581  INFO CRSApplication,main:75 - Course Registration System
+13:32:57,595  INFO CRSApplication,main:76 - 1. Login
+13:32:57,595  INFO CRSApplication,main:77 - 2. Student Registration
+13:32:57,596  INFO CRSApplication,main:78 - 3. Update password
+13:32:57,596  INFO CRSApplication,main:79 - 4. Exit
+13:32:57,597  INFO CRSApplication,main:80 - Enter input
+13:32:59,242  INFO CRSApplication,main:92 - Login
+13:32:59,243  INFO CRSApplication,main:93 - user Id:
+13:33:01,186  INFO CRSApplication,main:95 - Password:
+13:33:04,839  INFO CRSApplication,main:128 - 21-02-2022 13:33:04 Login Successful
+13:33:04,878  INFO StudentCRSMenu,main:48 - Student Menu
+13:33:04,879  INFO StudentCRSMenu,main:49 - 1. Course Registration
+13:33:04,880  INFO StudentCRSMenu,main:50 - 2. Add Course
+13:33:04,880  INFO StudentCRSMenu,main:51 - 3. Drop Course
+13:33:04,881  INFO StudentCRSMenu,main:52 - 4. View Course
+13:33:04,882  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+13:33:04,882  INFO StudentCRSMenu,main:54 - 6. View grade card
+13:33:04,882  INFO StudentCRSMenu,main:55 - 7. Make Payment
+13:33:04,883  INFO StudentCRSMenu,main:56 - 8. Logout
+13:33:08,654 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+13:33:08,657  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+13:33:08,658  INFO StudentCRSMenu,main:48 - Student Menu
+13:33:08,658  INFO StudentCRSMenu,main:49 - 1. Course Registration
+13:33:08,659  INFO StudentCRSMenu,main:50 - 2. Add Course
+13:33:08,659  INFO StudentCRSMenu,main:51 - 3. Drop Course
+13:33:08,659  INFO StudentCRSMenu,main:52 - 4. View Course
+13:33:08,659  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+13:33:08,659  INFO StudentCRSMenu,main:54 - 6. View grade card
+13:33:08,662  INFO StudentCRSMenu,main:55 - 7. Make Payment
+13:33:08,664  INFO StudentCRSMenu,main:56 - 8. Logout
+13:33:12,684 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+13:33:12,685  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+13:33:12,685  INFO StudentCRSMenu,main:48 - Student Menu
+13:33:12,685  INFO StudentCRSMenu,main:49 - 1. Course Registration
+13:33:12,686  INFO StudentCRSMenu,main:50 - 2. Add Course
+13:33:12,687  INFO StudentCRSMenu,main:51 - 3. Drop Course
+13:33:12,688  INFO StudentCRSMenu,main:52 - 4. View Course
+13:33:12,688  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+13:33:12,689  INFO StudentCRSMenu,main:54 - 6. View grade card
+13:33:12,690  INFO StudentCRSMenu,main:55 - 7. Make Payment
+13:33:12,691  INFO StudentCRSMenu,main:56 - 8. Logout
+15:09:56,009  INFO CRSApplication,main:75 - Course Registration System
+15:09:56,017  INFO CRSApplication,main:76 - 1. Login
+15:09:56,017  INFO CRSApplication,main:77 - 2. Student Registration
+15:09:56,017  INFO CRSApplication,main:78 - 3. Update password
+15:09:56,017  INFO CRSApplication,main:79 - 4. Exit
+15:09:56,017  INFO CRSApplication,main:80 - Enter input
+15:10:20,139  INFO CRSApplication,main:92 - Login
+15:10:20,140  INFO CRSApplication,main:93 - user Id:
+15:10:21,734  INFO CRSApplication,main:95 - Password:
+15:10:24,879  INFO CRSApplication,main:128 - 21-02-2022 15:10:24 Login Successful
+15:10:24,914  INFO StudentCRSMenu,main:48 - Student Menu
+15:10:24,915  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:10:24,915  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:10:24,916  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:10:24,916  INFO StudentCRSMenu,main:52 - 4. View Course
+15:10:24,917  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:10:24,917  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:10:24,918  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:10:24,918  INFO StudentCRSMenu,main:56 - 8. Logout
+15:10:35,735  INFO StudentCRSMenu,main:183 - Please complete registration
+15:10:35,736  INFO StudentCRSMenu,main:48 - Student Menu
+15:10:35,738  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:10:35,738  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:10:35,739  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:10:35,742  INFO StudentCRSMenu,main:52 - 4. View Course
+15:10:35,742  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:10:35,744  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:10:35,744  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:10:35,745  INFO StudentCRSMenu,main:56 - 8. Logout
+15:10:42,385 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+15:10:42,386  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+15:10:42,386  INFO StudentCRSMenu,main:48 - Student Menu
+15:10:42,387  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:10:42,387  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:10:42,387  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:10:42,388  INFO StudentCRSMenu,main:52 - 4. View Course
+15:10:42,388  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:10:42,389  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:10:42,389  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:10:42,389  INFO StudentCRSMenu,main:56 - 8. Logout
+15:11:25,931 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+15:11:25,932  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+15:11:25,932  INFO StudentCRSMenu,main:48 - Student Menu
+15:11:25,934  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:11:25,934  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:11:25,934  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:11:25,935  INFO StudentCRSMenu,main:52 - 4. View Course
+15:11:25,935  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:11:25,936  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:11:25,936  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:11:25,936  INFO StudentCRSMenu,main:56 - 8. Logout
+15:11:31,503  INFO StudentCRSMenu,main:287 - You haven't registered for any course
+15:11:31,503  INFO StudentCRSMenu,main:48 - Student Menu
+15:11:31,504  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:11:31,504  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:11:31,504  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:11:31,505  INFO StudentCRSMenu,main:52 - 4. View Course
+15:11:31,505  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:11:31,505  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:11:31,506  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:11:31,506  INFO StudentCRSMenu,main:56 - 8. Logout
+15:11:43,803  INFO StudentCRSMenu,main:183 - Please complete registration
+15:11:43,806  INFO StudentCRSMenu,main:48 - Student Menu
+15:11:43,807  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:11:43,807  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:11:43,807  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:11:43,808  INFO StudentCRSMenu,main:52 - 4. View Course
+15:11:43,808  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:11:43,808  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:11:43,809  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:11:43,809  INFO StudentCRSMenu,main:56 - 8. Logout
+15:11:48,477 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+15:11:48,478  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+15:11:48,479  INFO StudentCRSMenu,main:48 - Student Menu
+15:11:48,479  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:11:48,480  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:11:48,480  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:11:48,480  INFO StudentCRSMenu,main:52 - 4. View Course
+15:11:48,480  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:11:48,481  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:11:48,481  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:11:48,482  INFO StudentCRSMenu,main:56 - 8. Logout
+15:16:12,785 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+15:16:12,786  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+15:16:12,786  INFO StudentCRSMenu,main:48 - Student Menu
+15:16:12,787  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:16:12,787  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:16:12,788  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:16:12,788  INFO StudentCRSMenu,main:52 - 4. View Course
+15:16:12,788  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:16:12,788  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:16:12,789  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:16:12,789  INFO StudentCRSMenu,main:56 - 8. Logout
+15:16:37,784  INFO CRSApplication,main:75 - Course Registration System
+15:16:37,792  INFO CRSApplication,main:76 - 1. Login
+15:16:37,793  INFO CRSApplication,main:77 - 2. Student Registration
+15:16:37,794  INFO CRSApplication,main:78 - 3. Update password
+15:16:37,794  INFO CRSApplication,main:79 - 4. Exit
+15:16:37,795  INFO CRSApplication,main:80 - Enter input
+15:16:39,063  INFO CRSApplication,main:92 - Login
+15:16:39,064  INFO CRSApplication,main:93 - user Id:
+15:16:41,668  INFO CRSApplication,main:95 - Password:
+15:16:46,910  INFO CRSApplication,main:128 - 21-02-2022 15:16:46 Login Successful
+15:16:46,946  INFO StudentCRSMenu,main:48 - Student Menu
+15:16:46,946  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:16:46,947  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:16:46,947  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:16:46,948  INFO StudentCRSMenu,main:52 - 4. View Course
+15:16:46,948  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:16:46,949  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:16:46,950  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:16:46,950  INFO StudentCRSMenu,main:56 - 8. Logout
+15:17:06,559 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+15:17:06,562  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+15:17:06,562  INFO StudentCRSMenu,main:48 - Student Menu
+15:17:06,562  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:17:06,563  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:17:06,563  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:17:06,563  INFO StudentCRSMenu,main:52 - 4. View Course
+15:17:06,564  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:17:06,565  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:17:06,565  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:17:06,565  INFO StudentCRSMenu,main:56 - 8. Logout
+15:18:18,320  INFO StudentCRSMenu,main:183 - Please complete registration
+15:18:18,321  INFO StudentCRSMenu,main:48 - Student Menu
+15:18:18,321  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:18:18,321  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:18:18,322  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:18:18,322  INFO StudentCRSMenu,main:52 - 4. View Course
+15:18:18,323  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:18:18,324  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:18:18,324  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:18:18,327  INFO StudentCRSMenu,main:56 - 8. Logout
+15:21:03,057  INFO StudentCRSMenu,main:183 - Please complete registration
+15:21:03,058  INFO StudentCRSMenu,main:48 - Student Menu
+15:21:03,059  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:21:03,060  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:21:03,060  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:21:03,060  INFO StudentCRSMenu,main:52 - 4. View Course
+15:21:03,061  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:21:03,062  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:21:03,062  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:21:03,063  INFO StudentCRSMenu,main:56 - 8. Logout
+15:22:20,619  INFO CRSApplication,main:75 - Course Registration System
+15:22:20,627  INFO CRSApplication,main:76 - 1. Login
+15:22:20,628  INFO CRSApplication,main:77 - 2. Student Registration
+15:22:20,628  INFO CRSApplication,main:78 - 3. Update password
+15:22:20,629  INFO CRSApplication,main:79 - 4. Exit
+15:22:20,629  INFO CRSApplication,main:80 - Enter input
+15:22:22,950  INFO CRSApplication,main:167 - Student Registration-----
+15:22:22,951  INFO CRSApplication,main:168 - Name:
+15:22:38,033  INFO CRSApplication,main:170 - userId:
+15:22:41,462  INFO CRSApplication,main:172 - Password:
+15:22:44,565  INFO CRSApplication,main:176 - Branch:
+15:22:46,831  INFO CRSApplication,main:178 - Batch:
+15:22:49,467 ERROR CRSApplication,main:187 - Error ken not registered.
+15:22:49,468  INFO CRSApplication,main:75 - Course Registration System
+15:22:49,468  INFO CRSApplication,main:76 - 1. Login
+15:22:49,469  INFO CRSApplication,main:77 - 2. Student Registration
+15:22:49,469  INFO CRSApplication,main:78 - 3. Update password
+15:22:49,470  INFO CRSApplication,main:79 - 4. Exit
+15:22:49,470  INFO CRSApplication,main:80 - Enter input
+15:25:50,137  INFO CRSApplication,main:92 - Login
+15:25:50,139  INFO CRSApplication,main:93 - user Id:
+15:26:26,902  INFO CRSApplication,main:75 - Course Registration System
+15:26:26,909  INFO CRSApplication,main:76 - 1. Login
+15:26:26,910  INFO CRSApplication,main:77 - 2. Student Registration
+15:26:26,911  INFO CRSApplication,main:78 - 3. Update password
+15:26:26,912  INFO CRSApplication,main:79 - 4. Exit
+15:26:26,913  INFO CRSApplication,main:80 - Enter input
+15:26:29,154  INFO CRSApplication,main:167 - Student Registration-----
+15:26:29,155  INFO CRSApplication,main:168 - Name:
+15:26:32,935  INFO CRSApplication,main:170 - userId:
+15:26:35,315  INFO CRSApplication,main:172 - Password:
+15:26:37,437  INFO CRSApplication,main:176 - Branch:
+15:26:39,312  INFO CRSApplication,main:178 - Batch:
+15:26:41,577 ERROR NotificationOperation,main:50 - Error occured Unknown column 'student_id' in 'field list'
+15:26:41,578  INFO CRSApplication,main:75 - Course Registration System
+15:26:41,578  INFO CRSApplication,main:76 - 1. Login
+15:26:41,579  INFO CRSApplication,main:77 - 2. Student Registration
+15:26:41,580  INFO CRSApplication,main:78 - 3. Update password
+15:26:41,580  INFO CRSApplication,main:79 - 4. Exit
+15:26:41,581  INFO CRSApplication,main:80 - Enter input
+15:29:38,460  INFO CRSApplication,main:167 - Student Registration-----
+15:29:38,462  INFO CRSApplication,main:168 - Name:
+15:29:45,320  INFO CRSApplication,main:170 - userId:
+15:29:48,173  INFO CRSApplication,main:172 - Password:
+15:29:49,889  INFO CRSApplication,main:176 - Branch:
+15:29:51,712  INFO CRSApplication,main:178 - Batch:
+15:29:52,918 ERROR NotificationOperation,main:50 - Error occured Incorrect integer value: '' for column 'reference_id' at row 1
+15:29:52,919  INFO CRSApplication,main:75 - Course Registration System
+15:29:52,920  INFO CRSApplication,main:76 - 1. Login
+15:29:52,921  INFO CRSApplication,main:77 - 2. Student Registration
+15:29:52,921  INFO CRSApplication,main:78 - 3. Update password
+15:29:52,921  INFO CRSApplication,main:79 - 4. Exit
+15:29:52,922  INFO CRSApplication,main:80 - Enter input
+15:31:21,034  INFO CRSApplication,main:92 - Login
+15:31:21,035  INFO CRSApplication,main:93 - user Id:
+15:31:25,007  INFO CRSApplication,main:95 - Password:
+15:31:27,048  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+15:31:27,049  INFO CRSApplication,main:75 - Course Registration System
+15:31:27,049  INFO CRSApplication,main:76 - 1. Login
+15:31:27,049  INFO CRSApplication,main:77 - 2. Student Registration
+15:31:27,049  INFO CRSApplication,main:78 - 3. Update password
+15:31:27,049  INFO CRSApplication,main:79 - 4. Exit
+15:31:27,049  INFO CRSApplication,main:80 - Enter input
+15:31:33,976  INFO CRSApplication,main:56 - Invalid Input
+15:31:33,977  INFO CRSApplication,main:75 - Course Registration System
+15:31:33,978  INFO CRSApplication,main:76 - 1. Login
+15:31:33,984  INFO CRSApplication,main:77 - 2. Student Registration
+15:31:33,984  INFO CRSApplication,main:78 - 3. Update password
+15:31:33,985  INFO CRSApplication,main:79 - 4. Exit
+15:31:33,985  INFO CRSApplication,main:80 - Enter input
+15:31:36,945  INFO CRSApplication,main:92 - Login
+15:31:36,946  INFO CRSApplication,main:93 - user Id:
+15:31:38,440  INFO CRSApplication,main:95 - Password:
+15:31:40,606  INFO CRSApplication,main:128 - 21-02-2022 15:31:40 Login Successful
+15:31:40,645  INFO StudentCRSMenu,main:48 - Student Menu
+15:31:40,646  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:31:40,646  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:31:40,647  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:31:40,647  INFO StudentCRSMenu,main:52 - 4. View Course
+15:31:40,648  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:31:40,648  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:31:40,648  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:31:40,649  INFO StudentCRSMenu,main:56 - 8. Logout
+15:31:43,589 ERROR RegistrationDaoOperation,main:381 - Parameter index out of range (2 > number of parameters, which is 1).
+15:31:43,590  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+15:31:43,591  INFO StudentCRSMenu,main:48 - Student Menu
+15:31:43,591  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:31:43,591  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:31:43,591  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:31:43,592  INFO StudentCRSMenu,main:52 - 4. View Course
+15:31:43,592  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:31:43,592  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:31:43,593  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:31:43,594  INFO StudentCRSMenu,main:56 - 8. Logout
+15:35:29,106  INFO CRSApplication,main:75 - Course Registration System
+15:35:29,114  INFO CRSApplication,main:76 - 1. Login
+15:35:29,115  INFO CRSApplication,main:77 - 2. Student Registration
+15:35:29,116  INFO CRSApplication,main:78 - 3. Update password
+15:35:29,116  INFO CRSApplication,main:79 - 4. Exit
+15:35:29,117  INFO CRSApplication,main:80 - Enter input
+15:35:34,608  INFO CRSApplication,main:92 - Login
+15:35:34,609  INFO CRSApplication,main:93 - user Id:
+15:35:36,260  INFO CRSApplication,main:95 - Password:
+15:35:39,473  INFO CRSApplication,main:128 - 21-02-2022 15:35:39 Login Successful
+15:35:39,503  INFO StudentCRSMenu,main:48 - Student Menu
+15:35:39,504  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:35:39,504  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:35:39,505  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:35:39,505  INFO StudentCRSMenu,main:52 - 4. View Course
+15:35:39,506  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:35:39,506  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:35:39,507  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:35:39,507  INFO StudentCRSMenu,main:56 - 8. Logout
+15:35:49,226 ERROR RegistrationDaoOperation,main:381 - Unknown column 'course.isOffered' in 'where clause'
+15:35:49,227  INFO StudentCRSMenu,main:256 - NO COURSE AVAILABLE
+15:35:49,227  INFO StudentCRSMenu,main:48 - Student Menu
+15:35:49,227  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:35:49,228  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:35:49,228  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:35:49,228  INFO StudentCRSMenu,main:52 - 4. View Course
+15:35:49,230  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:35:49,231  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:35:49,231  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:35:49,232  INFO StudentCRSMenu,main:56 - 8. Logout
+15:37:17,378  INFO CRSApplication,main:75 - Course Registration System
+15:37:17,387  INFO CRSApplication,main:76 - 1. Login
+15:37:17,388  INFO CRSApplication,main:77 - 2. Student Registration
+15:37:17,389  INFO CRSApplication,main:78 - 3. Update password
+15:37:17,391  INFO CRSApplication,main:79 - 4. Exit
+15:37:17,394  INFO CRSApplication,main:80 - Enter input
+15:37:18,610  INFO CRSApplication,main:92 - Login
+15:37:18,611  INFO CRSApplication,main:93 - user Id:
+15:37:20,139  INFO CRSApplication,main:95 - Password:
+15:37:23,642  INFO CRSApplication,main:128 - 21-02-2022 15:37:23 Login Successful
+15:37:23,682  INFO StudentCRSMenu,main:48 - Student Menu
+15:37:23,683  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:37:23,684  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:37:23,685  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:37:23,685  INFO StudentCRSMenu,main:52 - 4. View Course
+15:37:23,686  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:37:23,687  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:37:23,687  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:37:23,688  INFO StudentCRSMenu,main:56 - 8. Logout
+15:37:27,073  INFO StudentCRSMenu,main:261 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+15:37:27,074  INFO StudentCRSMenu,main:264 - 12AW                 sts                  102                  2                   
+15:37:27,075  INFO StudentCRSMenu,main:264 - AWS1                 AWS                  103                  3                   
+15:37:27,076  INFO StudentCRSMenu,main:120 - Enter Course Code : 1
+15:38:59,963  INFO RegistrationDaoOperation,main:93 - Field 'grade' doesn't have a default value
+15:38:59,965  INFO StudentCRSMenu,main:130 -  You have already registered for Course : 12AW
+15:38:59,980  INFO StudentCRSMenu,main:261 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+15:38:59,981  INFO StudentCRSMenu,main:264 - 12AW                 sts                  102                  2                   
+15:38:59,983  INFO StudentCRSMenu,main:264 - AWS1                 AWS                  103                  3                   
+15:38:59,984  INFO StudentCRSMenu,main:120 - Enter Course Code : 1
+15:45:19,861  INFO CRSApplication,main:75 - Course Registration System
+15:45:19,872  INFO CRSApplication,main:76 - 1. Login
+15:45:19,872  INFO CRSApplication,main:77 - 2. Student Registration
+15:45:19,872  INFO CRSApplication,main:78 - 3. Update password
+15:45:19,873  INFO CRSApplication,main:79 - 4. Exit
+15:45:19,873  INFO CRSApplication,main:80 - Enter input
+15:45:21,269  INFO CRSApplication,main:92 - Login
+15:45:21,270  INFO CRSApplication,main:93 - user Id:
+15:45:22,766  INFO CRSApplication,main:95 - Password:
+15:45:25,950  INFO CRSApplication,main:128 - 21-02-2022 15:45:25 Login Successful
+15:45:25,982  INFO StudentCRSMenu,main:48 - Student Menu
+15:45:25,983  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:45:25,984  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:45:25,984  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:45:25,985  INFO StudentCRSMenu,main:52 - 4. View Course
+15:45:25,985  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:45:25,985  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:45:25,986  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:45:25,986  INFO StudentCRSMenu,main:56 - 8. Logout
+15:45:28,273  INFO StudentCRSMenu,main:261 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+15:45:28,275  INFO StudentCRSMenu,main:264 - 12AW                 sts                  102                  2                   
+15:45:28,276  INFO StudentCRSMenu,main:264 - AWS1                 AWS                  103                  3                   
+15:45:28,276  INFO StudentCRSMenu,main:120 - Enter Course Code : 1
+15:45:35,195  INFO StudentCRSMenu,main:125 - Course 12AW registered sucessfully.
+15:45:35,214  INFO StudentCRSMenu,main:261 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+15:45:35,215  INFO StudentCRSMenu,main:264 - AWS1                 AWS                  103                  3                   
+15:45:35,216  INFO StudentCRSMenu,main:120 - Enter Course Code : 2
+15:46:55,964  INFO CRSApplication,main:75 - Course Registration System
+15:46:55,980  INFO CRSApplication,main:76 - 1. Login
+15:46:55,980  INFO CRSApplication,main:77 - 2. Student Registration
+15:46:55,980  INFO CRSApplication,main:78 - 3. Update password
+15:46:55,980  INFO CRSApplication,main:79 - 4. Exit
+15:46:55,980  INFO CRSApplication,main:80 - Enter input
+15:47:02,535  INFO CRSApplication,main:92 - Login
+15:47:02,536  INFO CRSApplication,main:93 - user Id:
+15:47:04,380 ERROR CRSApplication,main:64 - Error occured java.util.InputMismatchException
+15:47:10,991  INFO CRSApplication,main:75 - Course Registration System
+15:47:11,016  INFO CRSApplication,main:76 - 1. Login
+15:47:11,016  INFO CRSApplication,main:77 - 2. Student Registration
+15:47:11,016  INFO CRSApplication,main:78 - 3. Update password
+15:47:11,016  INFO CRSApplication,main:79 - 4. Exit
+15:47:11,016  INFO CRSApplication,main:80 - Enter input
+15:47:12,819  INFO CRSApplication,main:92 - Login
+15:47:12,820  INFO CRSApplication,main:93 - user Id:
+15:47:15,760  INFO CRSApplication,main:95 - Password:
+15:47:18,823  INFO CRSApplication,main:128 - 21-02-2022 15:47:18 Login Successful
+15:47:18,870  INFO StudentCRSMenu,main:48 - Student Menu
+15:47:18,870  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:47:18,870  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:47:18,873  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:47:18,874  INFO StudentCRSMenu,main:52 - 4. View Course
+15:47:18,875  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:47:18,876  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:47:18,877  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:47:18,878  INFO StudentCRSMenu,main:56 - 8. Logout
+15:47:55,090  INFO StudentCRSMenu,main:290 - COURSE CODE          COURSE NAME          INSTRUCTOR          
+15:47:55,117  INFO StudentCRSMenu,main:296 - 12AW                 sts                  tom                  
+15:47:55,118  INFO StudentCRSMenu,main:48 - Student Menu
+15:47:55,119  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:47:55,119  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:47:55,121  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:47:55,121  INFO StudentCRSMenu,main:52 - 4. View Course
+15:47:55,122  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:47:55,123  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:47:55,124  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:47:55,124  INFO StudentCRSMenu,main:56 - 8. Logout
+15:48:11,284  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+15:48:11,285  INFO StudentCRSMenu,main:263 - AWS1                 AWS                  103                  3                   
+15:48:11,285  INFO StudentCRSMenu,main:48 - Student Menu
+15:48:11,285  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:48:11,285  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:48:11,286  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:48:11,289  INFO StudentCRSMenu,main:52 - 4. View Course
+15:48:11,289  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:48:11,290  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:48:11,290  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:48:11,290  INFO StudentCRSMenu,main:56 - 8. Logout
+15:48:26,346  INFO RegistrationDaoOperation,main:336 - Column 'courseCode' not found.
+15:48:26,349  INFO StudentCRSMenu,main:318 - COURSE CODE          COURSE NAME          GRADE               
+15:48:26,350  INFO StudentCRSMenu,main:322 - You haven not registered for any course
+15:48:26,351  INFO StudentCRSMenu,main:48 - Student Menu
+15:48:26,351  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:48:26,352  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:48:26,352  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:48:26,353  INFO StudentCRSMenu,main:52 - 4. View Course
+15:48:26,353  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:48:26,354  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:48:26,354  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:48:26,363  INFO StudentCRSMenu,main:56 - 8. Logout
+15:50:06,708  INFO CRSApplication,main:75 - Course Registration System
+15:50:06,720  INFO CRSApplication,main:76 - 1. Login
+15:50:06,720  INFO CRSApplication,main:77 - 2. Student Registration
+15:50:06,720  INFO CRSApplication,main:78 - 3. Update password
+15:50:06,723  INFO CRSApplication,main:79 - 4. Exit
+15:50:06,723  INFO CRSApplication,main:80 - Enter input
+15:50:10,381  INFO CRSApplication,main:92 - Login
+15:50:10,382  INFO CRSApplication,main:93 - user Id:
+15:50:12,071  INFO CRSApplication,main:95 - Password:
+15:50:15,489  INFO CRSApplication,main:128 - 21-02-2022 15:50:15 Login Successful
+15:50:15,564  INFO StudentCRSMenu,main:48 - Student Menu
+15:50:15,566  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:50:15,567  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:50:15,568  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:50:15,569  INFO StudentCRSMenu,main:52 - 4. View Course
+15:50:15,569  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:50:15,570  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:50:15,571  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:50:15,572  INFO StudentCRSMenu,main:56 - 8. Logout
+15:50:18,902  INFO StudentCRSMenu,main:318 - COURSE CODE          COURSE NAME          GRADE               
+15:50:18,904  INFO StudentCRSMenu,main:328 - 12AW                 sts                  -                   
+15:50:18,904  INFO StudentCRSMenu,main:48 - Student Menu
+15:50:18,904  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:50:18,905  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:50:18,905  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:50:18,905  INFO StudentCRSMenu,main:52 - 4. View Course
+15:50:18,906  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:50:18,907  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:50:18,907  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:50:18,908  INFO StudentCRSMenu,main:56 - 8. Logout
+15:50:31,262  INFO CRSApplication,main:75 - Course Registration System
+15:50:31,262  INFO CRSApplication,main:76 - 1. Login
+15:50:31,263  INFO CRSApplication,main:77 - 2. Student Registration
+15:50:31,263  INFO CRSApplication,main:78 - 3. Update password
+15:50:31,264  INFO CRSApplication,main:79 - 4. Exit
+15:50:31,264  INFO CRSApplication,main:80 - Enter input
+15:50:33,974  INFO CRSApplication,main:92 - Login
+15:50:33,974  INFO CRSApplication,main:93 - user Id:
+15:51:45,350  INFO CRSApplication,main:95 - Password:
+15:51:47,809  INFO CRSApplication,main:117 - 21-02-2022 15:51:47 Login Successful
+15:51:47,812  INFO ProfessorCRSMenu,main:37 - Professor Menu
+15:51:47,812  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+15:51:47,813  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+15:51:47,813  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+15:51:47,814  INFO ProfessorCRSMenu,main:41 - 4. Logout
+15:52:01,070  INFO ProfessorCRSMenu,main:123 -          COURSE CODE          COURSE NAME           Student ID
+15:52:01,103 ERROR UserDaoOperation,main:77 - Column 'courseCode' not found.
+15:52:01,104  INFO ProfessorCRSMenu,main:130 - Add Grade
+15:52:01,104  INFO ProfessorCRSMenu,main:131 - Enter student id
+15:56:36,818  INFO CRSApplication,main:75 - Course Registration System
+15:56:36,825  INFO CRSApplication,main:76 - 1. Login
+15:56:36,825  INFO CRSApplication,main:77 - 2. Student Registration
+15:56:36,825  INFO CRSApplication,main:78 - 3. Update password
+15:56:36,826  INFO CRSApplication,main:79 - 4. Exit
+15:56:36,826  INFO CRSApplication,main:80 - Enter input
+15:56:38,547  INFO CRSApplication,main:92 - Login
+15:56:38,548  INFO CRSApplication,main:93 - user Id:
+15:56:41,047  INFO CRSApplication,main:95 - Password:
+15:56:44,527  INFO CRSApplication,main:117 - 21-02-2022 15:56:44 Login Successful
+15:56:44,535  INFO ProfessorCRSMenu,main:37 - Professor Menu
+15:56:44,536  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+15:56:44,536  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+15:56:44,537  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+15:56:44,537  INFO ProfessorCRSMenu,main:41 - 4. Logout
+15:56:48,902  INFO ProfessorCRSMenu,main:123 -          COURSE CODE          COURSE NAME           Student ID
+15:56:48,929  INFO ProfessorCRSMenu,main:130 - Add Grade
+15:56:48,930  INFO ProfessorCRSMenu,main:131 - Enter student id
+15:57:37,979  INFO CRSApplication,main:75 - Course Registration System
+15:57:37,990  INFO CRSApplication,main:76 - 1. Login
+15:57:37,991  INFO CRSApplication,main:77 - 2. Student Registration
+15:57:37,993  INFO CRSApplication,main:78 - 3. Update password
+15:57:37,993  INFO CRSApplication,main:79 - 4. Exit
+15:57:37,995  INFO CRSApplication,main:80 - Enter input
+15:57:44,241  INFO CRSApplication,main:92 - Login
+15:57:44,242  INFO CRSApplication,main:93 - user Id:
+15:57:47,111  INFO CRSApplication,main:95 - Password:
+15:57:49,870  INFO CRSApplication,main:128 - 21-02-2022 15:57:49 Login Successful
+15:57:49,903  INFO StudentCRSMenu,main:48 - Student Menu
+15:57:49,904  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:57:49,905  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:57:49,905  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:57:49,906  INFO StudentCRSMenu,main:52 - 4. View Course
+15:57:49,907  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:57:49,907  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:57:49,908  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:57:49,908  INFO StudentCRSMenu,main:56 - 8. Logout
+15:57:55,033  INFO StudentCRSMenu,main:290 - COURSE CODE          COURSE NAME          INSTRUCTOR          
+15:57:55,073  INFO StudentCRSMenu,main:296 - 12AW                 sts                  tom                  
+15:57:55,074  INFO StudentCRSMenu,main:48 - Student Menu
+15:57:55,074  INFO StudentCRSMenu,main:49 - 1. Course Registration
+15:57:55,074  INFO StudentCRSMenu,main:50 - 2. Add Course
+15:57:55,075  INFO StudentCRSMenu,main:51 - 3. Drop Course
+15:57:55,076  INFO StudentCRSMenu,main:52 - 4. View Course
+15:57:55,076  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+15:57:55,076  INFO StudentCRSMenu,main:54 - 6. View grade card
+15:57:55,077  INFO StudentCRSMenu,main:55 - 7. Make Payment
+15:57:55,077  INFO StudentCRSMenu,main:56 - 8. Logout
+15:59:10,243  INFO CRSApplication,main:75 - Course Registration System
+15:59:10,244  INFO CRSApplication,main:76 - 1. Login
+15:59:10,245  INFO CRSApplication,main:77 - 2. Student Registration
+15:59:10,245  INFO CRSApplication,main:78 - 3. Update password
+15:59:10,246  INFO CRSApplication,main:79 - 4. Exit
+15:59:10,246  INFO CRSApplication,main:80 - Enter input
+15:59:12,250  INFO CRSApplication,main:92 - Login
+15:59:12,251  INFO CRSApplication,main:93 - user Id:
+15:59:15,527  INFO CRSApplication,main:95 - Password:
+15:59:17,442  INFO CRSApplication,main:117 - 21-02-2022 15:59:17 Login Successful
+15:59:17,446  INFO ProfessorCRSMenu,main:37 - Professor Menu
+15:59:17,446  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+15:59:17,447  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+15:59:17,447  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+15:59:17,448  INFO ProfessorCRSMenu,main:41 - 4. Logout
+15:59:23,999  INFO ProfessorCRSMenu,main:77 -          COURSE CODE          COURSE CODE   Students  enrolled
+15:59:24,016  INFO ProfessorCRSMenu,main:84 -                 12AW                  sts                  101
+15:59:24,017  INFO ProfessorCRSMenu,main:37 - Professor Menu
+15:59:24,017  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+15:59:24,018  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+15:59:24,018  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+15:59:24,018  INFO ProfessorCRSMenu,main:41 - 4. Logout
+15:59:29,918  INFO ProfessorCRSMenu,main:123 -          COURSE CODE          COURSE NAME           Student ID
+15:59:29,919  INFO ProfessorCRSMenu,main:126 -                 12AW                  sts                  101
+15:59:29,941  INFO ProfessorCRSMenu,main:130 - Add Grade
+15:59:29,941  INFO ProfessorCRSMenu,main:131 - Enter student id
+15:59:34,740  INFO ProfessorCRSMenu,main:133 - Enter course code
+15:59:39,118  INFO ProfessorCRSMenu,main:135 - Enter grade
+15:59:43,440  INFO ProfessorCRSMenu,main:140 - Grade added successfully for 101
+15:59:43,441  INFO ProfessorCRSMenu,main:37 - Professor Menu
+15:59:43,441  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+15:59:43,441  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+15:59:43,442  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+15:59:43,442  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:00:27,083  INFO CRSApplication,main:75 - Course Registration System
+16:00:27,084  INFO CRSApplication,main:76 - 1. Login
+16:00:27,084  INFO CRSApplication,main:77 - 2. Student Registration
+16:00:27,086  INFO CRSApplication,main:78 - 3. Update password
+16:00:27,086  INFO CRSApplication,main:79 - 4. Exit
+16:00:27,087  INFO CRSApplication,main:80 - Enter input
+16:00:31,864  INFO CRSApplication,main:92 - Login
+16:00:31,865  INFO CRSApplication,main:93 - user Id:
+16:00:36,978  INFO CRSApplication,main:95 - Password:
+16:00:38,758  INFO CRSApplication,main:128 - 21-02-2022 16:00:38 Login Successful
+16:00:38,772  INFO StudentCRSMenu,main:48 - Student Menu
+16:00:38,773  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:00:38,773  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:00:38,774  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:00:38,774  INFO StudentCRSMenu,main:52 - 4. View Course
+16:00:38,774  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:00:38,774  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:00:38,775  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:00:38,775  INFO StudentCRSMenu,main:56 - 8. Logout
+16:00:42,343  INFO StudentCRSMenu,main:318 - COURSE CODE          COURSE NAME          GRADE               
+16:00:42,345  INFO StudentCRSMenu,main:328 - 12AW                 sts                  a                   
+16:00:42,345  INFO StudentCRSMenu,main:48 - Student Menu
+16:00:42,346  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:00:42,347  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:00:42,347  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:00:42,347  INFO StudentCRSMenu,main:52 - 4. View Course
+16:00:42,348  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:00:42,348  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:00:42,349  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:00:42,349  INFO StudentCRSMenu,main:56 - 8. Logout
+16:00:49,823  INFO CRSApplication,main:75 - Course Registration System
+16:00:49,824  INFO CRSApplication,main:76 - 1. Login
+16:00:49,824  INFO CRSApplication,main:77 - 2. Student Registration
+16:00:49,824  INFO CRSApplication,main:78 - 3. Update password
+16:00:49,826  INFO CRSApplication,main:79 - 4. Exit
+16:00:49,826  INFO CRSApplication,main:80 - Enter input
+16:00:51,737  INFO CRSApplication,main:167 - Student Registration-----
+16:00:51,738  INFO CRSApplication,main:168 - Name:
+16:00:56,204  INFO CRSApplication,main:170 - userId:
+16:00:59,024  INFO CRSApplication,main:172 - Password:
+16:01:01,408  INFO CRSApplication,main:176 - Branch:
+16:01:03,114  INFO CRSApplication,main:178 - Batch:
+16:01:04,813 ERROR NotificationOperation,main:50 - Error occured Incorrect integer value: '' for column 'reference_id' at row 1
+16:01:04,814  INFO CRSApplication,main:75 - Course Registration System
+16:01:04,814  INFO CRSApplication,main:76 - 1. Login
+16:01:04,815  INFO CRSApplication,main:77 - 2. Student Registration
+16:01:04,815  INFO CRSApplication,main:78 - 3. Update password
+16:01:04,816  INFO CRSApplication,main:79 - 4. Exit
+16:01:04,816  INFO CRSApplication,main:80 - Enter input
+16:08:44,500  INFO CRSApplication,main:167 - Student Registration-----
+16:08:44,501  INFO CRSApplication,main:168 - Name:
+16:08:47,263  INFO CRSApplication,main:170 - userId:
+16:08:50,756 ERROR CRSApplication,main:64 - Error occured java.util.InputMismatchException
+16:09:00,975  INFO CRSApplication,main:75 - Course Registration System
+16:09:00,984  INFO CRSApplication,main:76 - 1. Login
+16:09:00,985  INFO CRSApplication,main:77 - 2. Student Registration
+16:09:00,985  INFO CRSApplication,main:78 - 3. Update password
+16:09:00,986  INFO CRSApplication,main:79 - 4. Exit
+16:09:00,986  INFO CRSApplication,main:80 - Enter input
+16:09:02,671  INFO CRSApplication,main:167 - Student Registration-----
+16:09:02,672  INFO CRSApplication,main:168 - Name:
+16:09:05,278  INFO CRSApplication,main:170 - userId:
+16:09:08,660  INFO CRSApplication,main:172 - Password:
+16:09:10,803  INFO CRSApplication,main:176 - Branch:
+16:09:12,888  INFO CRSApplication,main:178 - Batch:
+16:09:15,816 ERROR NotificationOperation,main:50 - Error occured Cannot add or update a child row: a foreign key constraint fails (`test/notification`, CONSTRAINT `ref_id_fk` FOREIGN KEY (`reference_id`) REFERENCES `payment` (`reference_id`) ON DELETE CASCADE ON UPDATE CASCADE)
+16:09:15,817  INFO CRSApplication,main:75 - Course Registration System
+16:09:15,818  INFO CRSApplication,main:76 - 1. Login
+16:09:15,818  INFO CRSApplication,main:77 - 2. Student Registration
+16:09:15,818  INFO CRSApplication,main:78 - 3. Update password
+16:09:15,821  INFO CRSApplication,main:79 - 4. Exit
+16:09:15,823  INFO CRSApplication,main:80 - Enter input
+16:12:47,592  INFO CRSApplication,main:75 - Course Registration System
+16:12:47,604  INFO CRSApplication,main:76 - 1. Login
+16:12:47,604  INFO CRSApplication,main:77 - 2. Student Registration
+16:12:47,604  INFO CRSApplication,main:78 - 3. Update password
+16:12:47,606  INFO CRSApplication,main:79 - 4. Exit
+16:12:47,607  INFO CRSApplication,main:80 - Enter input
+16:12:49,486  INFO CRSApplication,main:167 - Student Registration-----
+16:12:49,487  INFO CRSApplication,main:168 - Name:
+16:12:54,535  INFO CRSApplication,main:170 - userId:
+16:12:57,767  INFO CRSApplication,main:172 - Password:
+16:13:00,583  INFO CRSApplication,main:176 - Branch:
+16:13:02,267  INFO CRSApplication,main:178 - Batch:
+16:13:05,359  INFO CRSApplication,main:75 - Course Registration System
+16:13:05,360  INFO CRSApplication,main:76 - 1. Login
+16:13:05,361  INFO CRSApplication,main:77 - 2. Student Registration
+16:13:05,362  INFO CRSApplication,main:78 - 3. Update password
+16:13:05,362  INFO CRSApplication,main:79 - 4. Exit
+16:13:05,363  INFO CRSApplication,main:80 - Enter input
+16:13:18,368  INFO CRSApplication,main:92 - Login
+16:13:18,373  INFO CRSApplication,main:93 - user Id:
+16:13:20,932 ERROR CRSApplication,main:64 - Error occured java.util.InputMismatchException
+16:13:27,009  INFO CRSApplication,main:75 - Course Registration System
+16:13:27,019  INFO CRSApplication,main:76 - 1. Login
+16:13:27,019  INFO CRSApplication,main:77 - 2. Student Registration
+16:13:27,020  INFO CRSApplication,main:78 - 3. Update password
+16:13:27,021  INFO CRSApplication,main:79 - 4. Exit
+16:13:27,021  INFO CRSApplication,main:80 - Enter input
+16:13:29,100  INFO CRSApplication,main:92 - Login
+16:13:29,101  INFO CRSApplication,main:93 - user Id:
+16:13:32,361  INFO CRSApplication,main:95 - Password:
+16:13:36,804  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+16:13:36,805  INFO CRSApplication,main:75 - Course Registration System
+16:13:36,806  INFO CRSApplication,main:76 - 1. Login
+16:13:36,806  INFO CRSApplication,main:77 - 2. Student Registration
+16:13:36,807  INFO CRSApplication,main:78 - 3. Update password
+16:13:36,807  INFO CRSApplication,main:79 - 4. Exit
+16:13:36,808  INFO CRSApplication,main:80 - Enter input
+16:13:50,598  INFO CRSApplication,main:92 - Login
+16:13:50,602  INFO CRSApplication,main:93 - user Id:
+16:19:45,405  INFO CRSApplication,main:95 - Password:
+16:19:47,674  INFO CRSApplication,main:112 - 21-02-2022 16:19:47 Login Successful
+16:19:47,722  INFO AdminCRSMenu,main:41 - Admin Menu
+16:19:47,723  INFO AdminCRSMenu,main:42 - 1. View course in catalog
+16:19:47,724  INFO AdminCRSMenu,main:43 - 2. Add Course to catalog
+16:19:47,725  INFO AdminCRSMenu,main:44 - 3. Delete Course from catalog
+16:19:47,726  INFO AdminCRSMenu,main:45 - 4. Approve Students
+16:19:47,728  INFO AdminCRSMenu,main:46 - 5. View Pending Admission
+16:19:47,729  INFO AdminCRSMenu,main:47 - 6. Add Professor
+16:19:47,730  INFO AdminCRSMenu,main:48 - 7. Assign Courses To Professor
+16:19:47,731  INFO AdminCRSMenu,main:49 - 8. Logout
+16:19:57,490 ERROR AdminDaoOperation,main:145 - Column Index out of range, 8 > 5. 
+16:19:57,491  INFO AdminCRSMenu,main:41 - Admin Menu
+16:19:57,492  INFO AdminCRSMenu,main:42 - 1. View course in catalog
+16:19:57,492  INFO AdminCRSMenu,main:43 - 2. Add Course to catalog
+16:19:57,492  INFO AdminCRSMenu,main:44 - 3. Delete Course from catalog
+16:19:57,492  INFO AdminCRSMenu,main:45 - 4. Approve Students
+16:19:57,493  INFO AdminCRSMenu,main:46 - 5. View Pending Admission
+16:19:57,493  INFO AdminCRSMenu,main:47 - 6. Add Professor
+16:19:57,493  INFO AdminCRSMenu,main:48 - 7. Assign Courses To Professor
+16:19:57,494  INFO AdminCRSMenu,main:49 - 8. Logout
+16:23:04,220  INFO CRSApplication,main:75 - Course Registration System
+16:23:04,221  INFO CRSApplication,main:76 - 1. Login
+16:23:04,222  INFO CRSApplication,main:77 - 2. Student Registration
+16:23:04,223  INFO CRSApplication,main:78 - 3. Update password
+16:23:04,223  INFO CRSApplication,main:79 - 4. Exit
+16:23:04,224  INFO CRSApplication,main:80 - Enter input
+16:23:05,761  INFO CRSApplication,main:92 - Login
+16:23:05,772  INFO CRSApplication,main:93 - user Id:
+16:23:08,093  INFO CRSApplication,main:95 - Password:
+16:23:23,007  INFO CRSApplication,main:128 - 21-02-2022 16:23:22 Login Successful
+16:23:23,075  INFO StudentCRSMenu,main:48 - Student Menu
+16:23:23,075  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:23:23,076  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:23:23,076  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:23:23,076  INFO StudentCRSMenu,main:52 - 4. View Course
+16:23:23,077  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:23:23,078  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:23:23,078  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:23:23,078  INFO StudentCRSMenu,main:56 - 8. Logout
+16:24:23,953  INFO CRSApplication,main:75 - Course Registration System
+16:24:23,962  INFO CRSApplication,main:76 - 1. Login
+16:24:23,963  INFO CRSApplication,main:77 - 2. Student Registration
+16:24:23,963  INFO CRSApplication,main:78 - 3. Update password
+16:24:23,963  INFO CRSApplication,main:79 - 4. Exit
+16:24:23,963  INFO CRSApplication,main:80 - Enter input
+16:24:35,158  INFO CRSApplication,main:92 - Login
+16:24:35,158  INFO CRSApplication,main:93 - user Id:
+16:25:18,314  INFO CRSApplication,main:95 - Password:
+16:25:21,876  INFO CRSApplication,main:128 - 21-02-2022 16:25:21 Login Successful
+16:25:21,923  INFO StudentCRSMenu,main:48 - Student Menu
+16:25:21,923  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:25:21,924  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:25:21,925  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:25:21,926  INFO StudentCRSMenu,main:52 - 4. View Course
+16:25:21,926  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:25:21,927  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:25:21,927  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:25:21,928  INFO StudentCRSMenu,main:56 - 8. Logout
+16:25:34,720  INFO StudentCRSMenu,main:182 - Please complete registration
+16:25:34,720  INFO StudentCRSMenu,main:48 - Student Menu
+16:25:34,721  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:25:34,722  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:25:34,722  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:25:34,725  INFO StudentCRSMenu,main:52 - 4. View Course
+16:25:34,731  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:25:34,734  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:25:34,734  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:25:34,734  INFO StudentCRSMenu,main:56 - 8. Logout
+16:25:53,910  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+16:25:53,912  INFO StudentCRSMenu,main:263 - 12AW                 sts                  102                  1                   
+16:25:53,913  INFO StudentCRSMenu,main:263 - AWS1                 AWS                  103                  3                   
+16:25:53,914  INFO StudentCRSMenu,main:119 - Enter Course Code : 1
+16:26:04,103  INFO StudentCRSMenu,main:124 - Course AWS1 registered sucessfully.
+16:26:04,104  INFO StudentCRSMenu,main:138 - Registration Successful
+16:26:04,125  INFO StudentCRSMenu,main:48 - Student Menu
+16:26:04,126  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:26:04,127  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:26:04,128  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:26:04,128  INFO StudentCRSMenu,main:52 - 4. View Course
+16:26:04,129  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:26:04,129  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:26:04,129  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:26:04,130  INFO StudentCRSMenu,main:56 - 8. Logout
+16:26:09,878  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+16:26:09,879  INFO StudentCRSMenu,main:263 - 12AW                 sts                  102                  1                   
+16:26:09,879  INFO StudentCRSMenu,main:164 - Enter Course Code : 
+16:26:21,181  INFO RegistrationDaoOperation,main:93 - Duplicate entry '300' for key 1
+16:26:21,183  INFO StudentCRSMenu,main:172 -  You have already registered for Course : 12AW
+16:26:21,183  INFO StudentCRSMenu,main:48 - Student Menu
+16:26:21,184  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:26:21,184  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:26:21,186  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:26:21,187  INFO StudentCRSMenu,main:52 - 4. View Course
+16:26:21,187  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:26:21,187  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:26:21,188  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:26:21,188  INFO StudentCRSMenu,main:56 - 8. Logout
+16:26:40,355  INFO StudentCRSMenu,main:290 - COURSE CODE          COURSE NAME          INSTRUCTOR          
+16:26:40,370  INFO StudentCRSMenu,main:296 - AWS1                 AWS                  william              
+16:26:40,372  INFO StudentCRSMenu,main:48 - Student Menu
+16:26:40,372  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:26:40,372  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:26:40,373  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:26:40,374  INFO StudentCRSMenu,main:52 - 4. View Course
+16:26:40,374  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:26:40,374  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:26:40,375  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:26:40,375  INFO StudentCRSMenu,main:56 - 8. Logout
+16:30:48,413  INFO CRSApplication,main:75 - Course Registration System
+16:30:48,415  INFO CRSApplication,main:76 - 1. Login
+16:30:48,415  INFO CRSApplication,main:77 - 2. Student Registration
+16:30:48,416  INFO CRSApplication,main:78 - 3. Update password
+16:30:48,416  INFO CRSApplication,main:79 - 4. Exit
+16:30:48,416  INFO CRSApplication,main:80 - Enter input
+16:30:50,840  INFO CRSApplication,main:56 - Invalid Input
+16:30:50,840  INFO CRSApplication,main:75 - Course Registration System
+16:30:50,842  INFO CRSApplication,main:76 - 1. Login
+16:30:50,843  INFO CRSApplication,main:77 - 2. Student Registration
+16:30:50,843  INFO CRSApplication,main:78 - 3. Update password
+16:30:50,844  INFO CRSApplication,main:79 - 4. Exit
+16:30:50,844  INFO CRSApplication,main:80 - Enter input
+16:30:53,366  INFO CRSApplication,main:92 - Login
+16:30:53,366  INFO CRSApplication,main:93 - user Id:
+16:30:56,344  INFO CRSApplication,main:95 - Password:
+16:30:58,423  INFO CRSApplication,main:128 - 21-02-2022 16:30:58 Login Successful
+16:30:58,453  INFO StudentCRSMenu,main:48 - Student Menu
+16:30:58,455  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:30:58,456  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:30:58,456  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:30:58,457  INFO StudentCRSMenu,main:52 - 4. View Course
+16:30:58,458  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:30:58,458  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:30:58,458  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:30:58,460  INFO StudentCRSMenu,main:56 - 8. Logout
+16:31:06,590  INFO StudentCRSMenu,main:106 -  Registration is already completed
+16:31:06,591  INFO StudentCRSMenu,main:48 - Student Menu
+16:31:06,592  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:31:06,593  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:31:06,594  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:31:06,594  INFO StudentCRSMenu,main:52 - 4. View Course
+16:31:06,595  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:31:06,595  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:31:06,596  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:31:06,597  INFO StudentCRSMenu,main:56 - 8. Logout
+16:31:16,896  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+16:31:16,897  INFO StudentCRSMenu,main:263 - 12AW                 sts                  102                  1                   
+16:31:16,898  INFO StudentCRSMenu,main:263 - AI                   Artifical Intelligence 102                  3                   
+16:31:16,898  INFO StudentCRSMenu,main:263 - IOT                  Internet Of things   103                  3                   
+16:31:16,899  INFO StudentCRSMenu,main:263 - ML                   Machine Learning     103                  5                   
+16:31:16,900  INFO StudentCRSMenu,main:263 - PY                   Python               102                  4                   
+16:31:16,900  INFO StudentCRSMenu,main:164 - Enter Course Code : 
+16:31:35,770  INFO RegistrationDaoOperation,main:93 - Duplicate entry '300' for key 1
+16:31:35,771  INFO StudentCRSMenu,main:172 -  You have already registered for Course : PY
+16:31:35,772  INFO StudentCRSMenu,main:48 - Student Menu
+16:31:35,772  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:31:35,772  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:31:35,773  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:31:35,774  INFO StudentCRSMenu,main:52 - 4. View Course
+16:31:35,774  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:31:35,775  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:31:35,775  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:31:35,776  INFO StudentCRSMenu,main:56 - 8. Logout
+16:32:25,896  INFO CRSApplication,main:75 - Course Registration System
+16:32:25,899  INFO CRSApplication,main:76 - 1. Login
+16:32:25,907  INFO CRSApplication,main:77 - 2. Student Registration
+16:32:25,907  INFO CRSApplication,main:78 - 3. Update password
+16:32:25,908  INFO CRSApplication,main:79 - 4. Exit
+16:32:25,909  INFO CRSApplication,main:80 - Enter input
+16:32:27,594  INFO CRSApplication,main:92 - Login
+16:32:27,595  INFO CRSApplication,main:93 - user Id:
+16:32:29,620  INFO CRSApplication,main:95 - Password:
+16:32:32,390  INFO CRSApplication,main:128 - 21-02-2022 16:32:32 Login Successful
+16:32:32,436  INFO StudentCRSMenu,main:48 - Student Menu
+16:32:32,437  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:32:32,438  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:32:32,438  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:32:32,439  INFO StudentCRSMenu,main:52 - 4. View Course
+16:32:32,439  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:32:32,440  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:32:32,441  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:32:32,441  INFO StudentCRSMenu,main:56 - 8. Logout
+16:32:38,934  INFO StudentCRSMenu,main:106 -  Registration is already completed
+16:32:38,935  INFO StudentCRSMenu,main:48 - Student Menu
+16:32:38,936  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:32:38,936  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:32:38,936  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:32:38,938  INFO StudentCRSMenu,main:52 - 4. View Course
+16:32:38,938  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:32:38,943  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:32:38,943  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:32:38,944  INFO StudentCRSMenu,main:56 - 8. Logout
+16:32:53,025  INFO CRSApplication,main:75 - Course Registration System
+16:32:53,026  INFO CRSApplication,main:76 - 1. Login
+16:32:53,027  INFO CRSApplication,main:77 - 2. Student Registration
+16:32:53,027  INFO CRSApplication,main:78 - 3. Update password
+16:32:53,028  INFO CRSApplication,main:79 - 4. Exit
+16:32:53,028  INFO CRSApplication,main:80 - Enter input
+16:33:00,024  INFO CRSApplication,main:92 - Login
+16:33:00,026  INFO CRSApplication,main:93 - user Id:
+16:33:14,350  INFO CRSApplication,main:95 - Password:
+16:33:16,427  WARN CRSApplication,main:135 - Failed to login, you have not been approved by the administration!
+16:33:16,427  INFO CRSApplication,main:75 - Course Registration System
+16:33:16,428  INFO CRSApplication,main:76 - 1. Login
+16:33:16,428  INFO CRSApplication,main:77 - 2. Student Registration
+16:33:16,428  INFO CRSApplication,main:78 - 3. Update password
+16:33:16,429  INFO CRSApplication,main:79 - 4. Exit
+16:33:16,429  INFO CRSApplication,main:80 - Enter input
+16:34:53,158  INFO CRSApplication,main:92 - Login
+16:34:53,159  INFO CRSApplication,main:93 - user Id:
+16:34:55,781  INFO CRSApplication,main:95 - Password:
+16:34:59,784  INFO CRSApplication,main:128 - 21-02-2022 16:34:59 Login Successful
+16:34:59,802  INFO StudentCRSMenu,main:48 - Student Menu
+16:34:59,803  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:34:59,803  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:34:59,804  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:34:59,804  INFO StudentCRSMenu,main:52 - 4. View Course
+16:34:59,804  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:34:59,805  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:34:59,805  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:34:59,807  INFO StudentCRSMenu,main:56 - 8. Logout
+16:35:06,049  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+16:35:06,051  INFO StudentCRSMenu,main:263 - 12AW                 sts                  102                  1                   
+16:35:06,052  INFO StudentCRSMenu,main:263 - AI                   Artifical Intelligence 102                  3                   
+16:35:06,052  INFO StudentCRSMenu,main:263 - AWS1                 AWS                  103                  2                   
+16:35:06,063  INFO StudentCRSMenu,main:263 - IOT                  Internet Of things   103                  3                   
+16:35:06,064  INFO StudentCRSMenu,main:263 - ML                   Machine Learning     103                  5                   
+16:35:06,068  INFO StudentCRSMenu,main:263 - PY                   Python               102                  4                   
+16:35:06,069  INFO StudentCRSMenu,main:119 - Enter Course Code : 1
+16:35:17,194  INFO StudentCRSMenu,main:124 - Course PY registered sucessfully.
+16:35:17,195  INFO StudentCRSMenu,main:138 - Registration Successful
+16:35:17,218  INFO StudentCRSMenu,main:48 - Student Menu
+16:35:17,219  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:35:17,221  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:35:17,221  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:35:17,221  INFO StudentCRSMenu,main:52 - 4. View Course
+16:35:17,222  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:35:17,223  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:35:17,223  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:35:17,224  INFO StudentCRSMenu,main:56 - 8. Logout
+16:35:21,967  INFO StudentCRSMenu,main:290 - COURSE CODE          COURSE NAME          INSTRUCTOR          
+16:35:21,983  INFO StudentCRSMenu,main:296 - PY                   Python               tom                  
+16:35:21,984  INFO StudentCRSMenu,main:48 - Student Menu
+16:35:21,984  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:35:21,984  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:35:21,984  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:35:21,986  INFO StudentCRSMenu,main:52 - 4. View Course
+16:35:21,986  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:35:21,989  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:35:21,990  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:35:21,990  INFO StudentCRSMenu,main:56 - 8. Logout
+16:35:29,030  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+16:35:29,031  INFO StudentCRSMenu,main:263 - 12AW                 sts                  102                  1                   
+16:35:29,032  INFO StudentCRSMenu,main:263 - AI                   Artifical Intelligence 102                  3                   
+16:35:29,032  INFO StudentCRSMenu,main:263 - AWS1                 AWS                  103                  2                   
+16:35:29,033  INFO StudentCRSMenu,main:263 - IOT                  Internet Of things   103                  3                   
+16:35:29,034  INFO StudentCRSMenu,main:263 - ML                   Machine Learning     103                  5                   
+16:35:29,034  INFO StudentCRSMenu,main:48 - Student Menu
+16:35:29,035  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:35:29,035  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:35:29,036  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:35:29,037  INFO StudentCRSMenu,main:52 - 4. View Course
+16:35:29,037  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:35:29,037  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:35:29,037  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:35:29,038  INFO StudentCRSMenu,main:56 - 8. Logout
+16:35:37,527  INFO StudentCRSMenu,main:318 - COURSE CODE          COURSE NAME          GRADE               
+16:35:37,531  INFO StudentCRSMenu,main:328 - PY                   Python               -                   
+16:35:37,532  INFO StudentCRSMenu,main:48 - Student Menu
+16:35:37,532  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:35:37,532  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:35:37,535  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:35:37,537  INFO StudentCRSMenu,main:52 - 4. View Course
+16:35:37,537  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:35:37,538  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:35:37,538  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:35:37,548  INFO StudentCRSMenu,main:56 - 8. Logout
+16:35:47,180  INFO CRSApplication,main:75 - Course Registration System
+16:35:47,182  INFO CRSApplication,main:76 - 1. Login
+16:35:47,182  INFO CRSApplication,main:77 - 2. Student Registration
+16:35:47,183  INFO CRSApplication,main:78 - 3. Update password
+16:35:47,183  INFO CRSApplication,main:79 - 4. Exit
+16:35:47,183  INFO CRSApplication,main:80 - Enter input
+16:36:08,947  INFO CRSApplication,main:92 - Login
+16:36:08,948  INFO CRSApplication,main:93 - user Id:
+16:36:12,586  INFO CRSApplication,main:95 - Password:
+16:36:14,238  INFO CRSApplication,main:117 - 21-02-2022 16:36:14 Login Successful
+16:36:14,241  INFO ProfessorCRSMenu,main:37 - Professor Menu
+16:36:14,241  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+16:36:14,241  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+16:36:14,242  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+16:36:14,242  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:36:16,179  INFO ProfessorCRSMenu,main:123 -          COURSE CODE          COURSE NAME           Student ID
+16:36:16,180  INFO ProfessorCRSMenu,main:126 -                 12AW                  sts                  101
+16:36:16,180  INFO ProfessorCRSMenu,main:126 -                   PY               Python                  400
+16:36:16,196  INFO ProfessorCRSMenu,main:130 - Add Grade
+16:36:16,196  INFO ProfessorCRSMenu,main:131 - Enter student id
+16:36:23,215  INFO ProfessorCRSMenu,main:133 - Enter course code
+16:36:28,133  INFO ProfessorCRSMenu,main:135 - Enter grade
+16:36:30,858  INFO ProfessorCRSMenu,main:140 - Grade added successfully for 400
+16:36:30,859  INFO ProfessorCRSMenu,main:37 - Professor Menu
+16:36:30,859  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+16:36:30,860  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+16:36:30,860  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+16:36:30,860  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:36:38,607  INFO ProfessorCRSMenu,main:77 -          COURSE CODE          COURSE CODE   Students  enrolled
+16:36:38,665  INFO ProfessorCRSMenu,main:84 -                 12AW                  sts                  101
+16:36:38,667  INFO ProfessorCRSMenu,main:84 -                   PY               Python                  400
+16:36:38,667  INFO ProfessorCRSMenu,main:37 - Professor Menu
+16:36:38,667  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+16:36:38,668  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+16:36:38,668  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+16:36:38,668  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:36:44,047  INFO ProfessorCRSMenu,main:100 -          COURSE CODE          COURSE NAME No. of Students  enrolled
+16:36:44,048  INFO ProfessorCRSMenu,main:103 -                 12AW                  sts                    9
+16:36:44,048  INFO ProfessorCRSMenu,main:103 -                   AI Artifical Intelligence                    7
+16:36:44,049  INFO ProfessorCRSMenu,main:103 -                   PY               Python                    7
+16:36:44,049  INFO ProfessorCRSMenu,main:37 - Professor Menu
+16:36:44,049  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+16:36:44,049  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+16:36:44,050  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+16:36:44,050  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:36:54,090  INFO CRSApplication,main:75 - Course Registration System
+16:36:54,091  INFO CRSApplication,main:76 - 1. Login
+16:36:54,091  INFO CRSApplication,main:77 - 2. Student Registration
+16:36:54,092  INFO CRSApplication,main:78 - 3. Update password
+16:36:54,092  INFO CRSApplication,main:79 - 4. Exit
+16:36:54,092  INFO CRSApplication,main:80 - Enter input
+16:36:55,778  INFO CRSApplication,main:92 - Login
+16:36:55,779  INFO CRSApplication,main:93 - user Id:
+16:36:59,749  INFO CRSApplication,main:95 - Password:
+16:37:01,522  INFO CRSApplication,main:128 - 21-02-2022 16:37:01 Login Successful
+16:37:01,539  INFO StudentCRSMenu,main:48 - Student Menu
+16:37:01,540  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:37:01,540  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:37:01,540  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:37:01,541  INFO StudentCRSMenu,main:52 - 4. View Course
+16:37:01,541  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:37:01,541  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:37:01,541  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:37:01,542  INFO StudentCRSMenu,main:56 - 8. Logout
+16:37:04,023  INFO StudentCRSMenu,main:318 - COURSE CODE          COURSE NAME          GRADE               
+16:37:04,024  INFO StudentCRSMenu,main:328 - PY                   Python               a                   
+16:37:04,024  INFO StudentCRSMenu,main:48 - Student Menu
+16:37:04,025  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:37:04,033  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:37:04,034  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:37:04,034  INFO StudentCRSMenu,main:52 - 4. View Course
+16:37:04,034  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:37:04,034  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:37:04,035  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:37:04,035  INFO StudentCRSMenu,main:56 - 8. Logout
+16:43:01,698  INFO CRSApplication,main:75 - Course Registration System
+16:43:01,708  INFO CRSApplication,main:76 - 1. Login
+16:43:01,709  INFO CRSApplication,main:77 - 2. Student Registration
+16:43:01,709  INFO CRSApplication,main:78 - 3. Update password
+16:43:01,710  INFO CRSApplication,main:79 - 4. Exit
+16:43:01,710  INFO CRSApplication,main:80 - Enter input
+16:43:03,421  INFO CRSApplication,main:92 - Login
+16:43:03,422  INFO CRSApplication,main:93 - user Id:
+16:43:19,230  INFO CRSApplication,main:95 - Password:
+16:43:22,379  INFO CRSApplication,main:128 - 21-02-2022 16:43:22 Login Successful
+16:43:22,421  INFO StudentCRSMenu,main:48 - Student Menu
+16:43:22,422  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:43:22,423  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:43:22,423  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:43:22,424  INFO StudentCRSMenu,main:52 - 4. View Course
+16:43:22,424  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:43:22,425  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:43:22,425  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:43:22,425  INFO StudentCRSMenu,main:56 - 8. Logout
+16:43:29,179  INFO StudentCRSMenu,main:106 -  Registration is already completed
+16:43:29,180  INFO StudentCRSMenu,main:48 - Student Menu
+16:43:29,181  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:43:29,181  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:43:29,182  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:43:29,182  INFO StudentCRSMenu,main:52 - 4. View Course
+16:43:29,183  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:43:29,183  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:43:29,184  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:43:29,185  INFO StudentCRSMenu,main:56 - 8. Logout
+16:43:37,202  INFO StudentCRSMenu,main:290 - COURSE CODE          COURSE NAME          INSTRUCTOR          
+16:43:37,231  INFO StudentCRSMenu,main:296 - PY                   Python               tom                  
+16:43:37,232  INFO StudentCRSMenu,main:48 - Student Menu
+16:43:37,232  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:43:37,233  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:43:37,233  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:43:37,234  INFO StudentCRSMenu,main:52 - 4. View Course
+16:43:37,234  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:43:37,234  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:43:37,235  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:43:37,236  INFO StudentCRSMenu,main:56 - 8. Logout
+16:43:53,620  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+16:43:53,621  INFO StudentCRSMenu,main:263 - 12AW                 sts                  102                  1                   
+16:43:53,621  INFO StudentCRSMenu,main:263 - AI                   Artifical Intelligence 102                  3                   
+16:43:53,622  INFO StudentCRSMenu,main:263 - AWS1                 AWS                  103                  2                   
+16:43:53,623  INFO StudentCRSMenu,main:263 - IOT                  Internet Of things   103                  3                   
+16:43:53,624  INFO StudentCRSMenu,main:263 - ML                   Machine Learning     103                  5                   
+16:43:53,624  INFO StudentCRSMenu,main:48 - Student Menu
+16:43:53,627  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:43:53,627  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:43:53,628  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:43:53,628  INFO StudentCRSMenu,main:52 - 4. View Course
+16:43:53,628  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:43:53,629  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:43:53,629  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:43:53,629  INFO StudentCRSMenu,main:56 - 8. Logout
+16:44:07,732  INFO StudentCRSMenu,main:260 - COURSE CODE          COURSE NAME          INSTRUCTOR           SEATS               
+16:44:07,733  INFO StudentCRSMenu,main:263 - 12AW                 sts                  102                  1                   
+16:44:07,734  INFO StudentCRSMenu,main:263 - AI                   Artifical Intelligence 102                  3                   
+16:44:07,735  INFO StudentCRSMenu,main:263 - AWS1                 AWS                  103                  2                   
+16:44:07,736  INFO StudentCRSMenu,main:263 - IOT                  Internet Of things   103                  3                   
+16:44:07,736  INFO StudentCRSMenu,main:263 - ML                   Machine Learning     103                  5                   
+16:44:07,737  INFO StudentCRSMenu,main:164 - Enter Course Code : 
+16:44:27,482  INFO RegistrationDaoOperation,main:93 - Duplicate entry '400' for key 1
+16:44:27,483  INFO StudentCRSMenu,main:172 -  You have already registered for Course : 12AW
+16:44:27,484  INFO StudentCRSMenu,main:48 - Student Menu
+16:44:27,484  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:44:27,484  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:44:27,484  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:44:27,485  INFO StudentCRSMenu,main:52 - 4. View Course
+16:44:27,485  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:44:27,485  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:44:27,486  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:44:27,486  INFO StudentCRSMenu,main:56 - 8. Logout
+16:44:41,866  INFO StudentCRSMenu,main:318 - COURSE CODE          COURSE NAME          GRADE               
+16:44:41,867  INFO StudentCRSMenu,main:328 - PY                   Python               a                   
+16:44:41,867  INFO StudentCRSMenu,main:48 - Student Menu
+16:44:41,868  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:44:41,868  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:44:41,868  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:44:41,869  INFO StudentCRSMenu,main:52 - 4. View Course
+16:44:41,869  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:44:41,870  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:44:41,870  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:44:41,870  INFO StudentCRSMenu,main:56 - 8. Logout
+16:45:38,962  INFO CRSApplication,main:75 - Course Registration System
+16:45:38,962  INFO CRSApplication,main:76 - 1. Login
+16:45:38,964  INFO CRSApplication,main:77 - 2. Student Registration
+16:45:38,965  INFO CRSApplication,main:78 - 3. Update password
+16:45:38,965  INFO CRSApplication,main:79 - 4. Exit
+16:45:38,965  INFO CRSApplication,main:80 - Enter input
+16:45:40,884  INFO CRSApplication,main:92 - Login
+16:45:40,885  INFO CRSApplication,main:93 - user Id:
+16:45:43,393  INFO CRSApplication,main:95 - Password:
+16:45:45,377  INFO CRSApplication,main:117 - 21-02-2022 16:45:45 Login Successful
+16:45:45,379  INFO ProfessorCRSMenu,main:37 - Professor Menu
+16:45:45,380  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+16:45:45,380  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+16:45:45,380  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+16:45:45,381  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:45:50,948  INFO ProfessorCRSMenu,main:100 -          COURSE CODE          COURSE NAME No. of Students  enrolled
+16:45:50,949  INFO ProfessorCRSMenu,main:103 -                 12AW                  sts                    9
+16:45:50,950  INFO ProfessorCRSMenu,main:103 -                   AI Artifical Intelligence                    7
+16:45:50,950  INFO ProfessorCRSMenu,main:103 -                   PY               Python                    7
+16:45:50,951  INFO ProfessorCRSMenu,main:37 - Professor Menu
+16:45:50,951  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+16:45:50,951  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+16:45:50,952  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+16:45:50,952  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:46:05,820  INFO ProfessorCRSMenu,main:123 -          COURSE CODE          COURSE NAME           Student ID
+16:46:05,821  INFO ProfessorCRSMenu,main:126 -                 12AW                  sts                  101
+16:46:05,822  INFO ProfessorCRSMenu,main:126 -                   PY               Python                  400
+16:46:05,842  INFO ProfessorCRSMenu,main:130 - Add Grade
+16:46:05,843  INFO ProfessorCRSMenu,main:131 - Enter student id
+16:46:25,011  INFO ProfessorCRSMenu,main:133 - Enter course code
+16:46:28,419  INFO ProfessorCRSMenu,main:135 - Enter grade
+16:46:33,178  INFO ProfessorCRSMenu,main:140 - Grade added successfully for 400
+16:46:33,178  INFO ProfessorCRSMenu,main:37 - Professor Menu
+16:46:33,178  INFO ProfessorCRSMenu,main:38 - 1. View Courses
+16:46:33,178  INFO ProfessorCRSMenu,main:39 - 2. View Enrolled Students
+16:46:33,179  INFO ProfessorCRSMenu,main:40 - 3. Add grade
+16:46:33,179  INFO ProfessorCRSMenu,main:41 - 4. Logout
+16:46:38,453  INFO CRSApplication,main:75 - Course Registration System
+16:46:38,454  INFO CRSApplication,main:76 - 1. Login
+16:46:38,454  INFO CRSApplication,main:77 - 2. Student Registration
+16:46:38,455  INFO CRSApplication,main:78 - 3. Update password
+16:46:38,455  INFO CRSApplication,main:79 - 4. Exit
+16:46:38,455  INFO CRSApplication,main:80 - Enter input
+16:46:40,129  INFO CRSApplication,main:92 - Login
+16:46:40,132  INFO CRSApplication,main:93 - user Id:
+16:46:42,815  INFO CRSApplication,main:95 - Password:
+16:46:45,929  INFO CRSApplication,main:128 - 21-02-2022 16:46:45 Login Successful
+16:46:45,951  INFO StudentCRSMenu,main:48 - Student Menu
+16:46:45,951  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:46:45,951  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:46:45,952  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:46:45,952  INFO StudentCRSMenu,main:52 - 4. View Course
+16:46:45,952  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:46:45,953  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:46:45,953  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:46:45,953  INFO StudentCRSMenu,main:56 - 8. Logout
+16:46:48,764  INFO StudentCRSMenu,main:318 - COURSE CODE          COURSE NAME          GRADE               
+16:46:48,765  INFO StudentCRSMenu,main:328 - PY                   Python               b                   
+16:46:48,765  INFO StudentCRSMenu,main:48 - Student Menu
+16:46:48,765  INFO StudentCRSMenu,main:49 - 1. Course Registration
+16:46:48,766  INFO StudentCRSMenu,main:50 - 2. Add Course
+16:46:48,766  INFO StudentCRSMenu,main:51 - 3. Drop Course
+16:46:48,766  INFO StudentCRSMenu,main:52 - 4. View Course
+16:46:48,766  INFO StudentCRSMenu,main:53 - 5. View Registered Courses
+16:46:48,766  INFO StudentCRSMenu,main:54 - 6. View grade card
+16:46:48,767  INFO StudentCRSMenu,main:55 - 7. Make Payment
+16:46:48,767  INFO StudentCRSMenu,main:56 - 8. Logout
+16:47:00,417  INFO CRSApplication,main:75 - Course Registration System
+16:47:00,417  INFO CRSApplication,main:76 - 1. Login
+16:47:00,418  INFO CRSApplication,main:77 - 2. Student Registration
+16:47:00,419  INFO CRSApplication,main:78 - 3. Update password
+16:47:00,433  INFO CRSApplication,main:79 - 4. Exit
+16:47:00,433  INFO CRSApplication,main:80 - Enter input
+16:47:03,744  INFO CRSApplication,main:167 - Student Registration-----
+16:47:03,746  INFO CRSApplication,main:168 - Name:
+16:47:20,706  INFO CRSApplication,main:170 - userId:
+16:47:24,072  INFO CRSApplication,main:172 - Password:
+16:47:26,527  INFO CRSApplication,main:176 - Branch:
+16:47:28,754  INFO CRSApplication,main:178 - Batch:
+16:47:30,295  INFO CRSApplication,main:75 - Course Registration System
+16:47:30,296  INFO CRSApplication,main:76 - 1. Login
+16:47:30,297  INFO CRSApplication,main:77 - 2. Student Registration
+16:47:30,298  INFO CRSApplication,main:78 - 3. Update password
+16:47:30,298  INFO CRSApplication,main:79 - 4. Exit
+16:47:30,298  INFO CRSApplication,main:80 - Enter input
+16:47:53,777  INFO CRSApplication,main:92 - Login
+16:47:53,778  INFO CRSApplication,main:93 - user Id:
+16:48:06,805  INFO CRSApplication,main:95 - Password:
+16:48:09,822  INFO CRSApplication,main:112 - 21-02-2022 16:48:09 Login Successful
+16:48:09,850  INFO AdminCRSMenu,main:41 - Admin Menu
+16:48:09,851  INFO AdminCRSMenu,main:42 - 1. View course in catalog
+16:48:09,851  INFO AdminCRSMenu,main:43 - 2. Add Course to catalog
+16:48:09,851  INFO AdminCRSMenu,main:44 - 3. Delete Course from catalog
+16:48:09,851  INFO AdminCRSMenu,main:45 - 4. Approve Students
+16:48:09,851  INFO AdminCRSMenu,main:46 - 5. View Pending Admission
+16:48:09,852  INFO AdminCRSMenu,main:47 - 6. Add Professor
+16:48:09,852  INFO AdminCRSMenu,main:48 - 7. Assign Courses To Professor
+16:48:09,852  INFO AdminCRSMenu,main:49 - 8. Logout
+16:48:17,320 ERROR AdminDaoOperation,main:145 - Column Index out of range, 8 > 5. 
+16:48:17,321  INFO AdminCRSMenu,main:41 - Admin Menu
+16:48:17,321  INFO AdminCRSMenu,main:42 - 1. View course in catalog
+16:48:17,328  INFO AdminCRSMenu,main:43 - 2. Add Course to catalog
+16:48:17,328  INFO AdminCRSMenu,main:44 - 3. Delete Course from catalog
+16:48:17,328  INFO AdminCRSMenu,main:45 - 4. Approve Students
+16:48:17,328  INFO AdminCRSMenu,main:46 - 5. View Pending Admission
+16:48:17,329  INFO AdminCRSMenu,main:47 - 6. Add Professor
+16:48:17,331  INFO AdminCRSMenu,main:48 - 7. Assign Courses To Professor
+16:48:17,332  INFO AdminCRSMenu,main:49 - 8. Logout
+16:48:24,384 ERROR AdminDaoOperation,main:357 - Column Index out of range, 5 > 4. 
+16:48:24,385  INFO AdminCRSMenu,main:96 - Professor
+16:48:24,386  INFO AdminCRSMenu,main:97 -          ProfessorId |                 Name |          Designation 
+16:48:24,386  INFO AdminCRSMenu,main:103 - 
+
+
+16:48:24,388  INFO AdminDaoOperation,main:316 - 1 courses in catalogId: 1.
+16:48:24,388  INFO AdminCRSMenu,main:105 - Course
+16:48:24,388  INFO AdminCRSMenu,main:106 -           CourseCode |           CourseName
+16:48:24,388  INFO AdminCRSMenu,main:108 -                 AWS1 |                  AWS 
+16:48:24,388  INFO AdminCRSMenu,main:111 - Enter Course Code:
+16:52:38,290  INFO CRSApplication,main:75 - Course Registration System
+16:52:38,299  INFO CRSApplication,main:76 - 1. Login
+16:52:38,299  INFO CRSApplication,main:77 - 2. Student Registration
+16:52:38,300  INFO CRSApplication,main:78 - 3. Update password
+16:52:38,301  INFO CRSApplication,main:79 - 4. Exit
+16:52:38,302  INFO CRSApplication,main:80 - Enter input
